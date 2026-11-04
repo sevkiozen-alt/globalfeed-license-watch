@@ -1,0 +1,25 @@
+{
+ "per_list": 4,
+ "orgs": [
+  "deepseek-ai",
+  "Qwen",
+  "moonshotai",
+  "zai-org",
+  "stepfun-ai",
+  "MiniMaxAI",
+  "tencent",
+  "baidu",
+  "ByteDance-Seed",
+  "meta-llama",
+  "mistralai",
+  "google",
+  "microsoft",
+  "openai",
+  "nvidia",
+  "ibm-granite",
+  "allenai",
+  "LiquidAI",
+  "black-forest-labs",
+  "stabilityai"
+ ]
+}

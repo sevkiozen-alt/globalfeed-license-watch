@@ -1,0 +1,1512 @@
+{
+ "ByteDance-Seed/GenFirst": {
+  "changed": null,
+  "created": "2026-10-29",
+  "first_seen": "2026-11-04",
+  "gated": false,
+  "license": "cc-by-nc-4.0",
+  "license_file": "LICENSE",
+  "license_name": null,
+  "license_sha256": "5416c07d93a3167c63939e26052ff9f3d910f13b45b160af21dd6efc5b3899e9"
+ },
+ "ByteDance-Seed/PAR": {
+  "changed": null,
+  "created": "2026-07-03",
+  "first_seen": "2026-11-04",
+  "gated": false,
+  "license": "apache-2.0",
+  "license_file": null,
+  "license_name": null,
+  "license_sha256": null
+ },
+ "ByteDance-Seed/Seed-OSS-36B-Instruct": {
+  "changed": null,
+  "created": "2025-08-20",
+  "first_seen": "2026-11-04",
+  "gated": false,
+  "license": "apache-2.0",
+  "license_file": "LICENSE.txt",
+  "license_name": null,
+  "license_sha256": "41fe2167e8a52d375dd36304db345312bd629addb2e109e47104a7d34a2cf116"
+ },
+ "ByteDance-Seed/SeedVR2-3B": {
+  "changed": null,
+  "created": "2025-06-10",
+  "first_seen": "2026-11-04",
+  "gated": false,
+  "license": "apache-2.0",
+  "license_file": null,
+  "license_name": null,
+  "license_sha256": null
+ },
+ "ByteDance-Seed/SeedVR2-7B": {
+  "changed": null,
+  "created": "2025-06-11",
+  "first_seen": "2026-11-04",
+  "gated": false,
+  "license": "apache-2.0",
+  "license_file": null,
+  "license_name": null,
+  "license_sha256": null
+ },
+ "ByteDance-Seed/SimArt": {
+  "changed": null,
+  "created": "2026-05-19",
+  "first_seen": "2026-11-04",
+  "gated": false,
+  "license": "apache-2.0",
+  "license_file": null,
+  "license_name": null,
+  "license_sha256": null
+ },
+ "ByteDance-Seed/TaskMem": {
+  "changed": null,
+  "created": "2026-06-02",
+  "first_seen": "2026-11-04",
+  "gated": false,
+  "license": "apache-2.0",
+  "license_file": null,
+  "license_name": null,
+  "license_sha256": null
+ },
+ "ByteDance-Seed/UI-TARS-1.5-7B": {
+  "changed": null,
+  "created": "2025-04-16",
+  "first_seen": "2026-11-04",
+  "gated": false,
+  "license": "apache-2.0",
+  "license_file": null,
+  "license_name": null,
+  "license_sha256": null
+ },
+ "LiquidAI/LFM2.5-2.6B-GGUF": {
+  "changed": null,
+  "created": "2026-08-01",
+  "first_seen": "2026-11-04",
+  "gated": false,
+  "license": "other",
+  "license_file": "LICENSE",
+  "license_name": "lfm1.0",
+  "license_sha256": "30adf9d6478191fb87f2424f63ba0728598335aaf99cd2848ef17e8e545fe94b"
+ },
+ "LiquidAI/LFM2.5-230M-Base": {
+  "changed": null,
+  "created": "2026-06-16",
+  "first_seen": "2026-11-04",
+  "gated": false,
+  "license": "other",
+  "license_file": "LICENSE",
+  "license_name": "lfm1.0",
+  "license_sha256": "30adf9d6478191fb87f2424f63ba0728598335aaf99cd2848ef17e8e545fe94b"
+ },
+ "LiquidAI/LFM2.5-Audio-1.5B-GGUF": {
+  "changed": null,
+  "created": "2026-01-06",
+  "first_seen": "2026-11-04",
+  "gated": false,
+  "license": "other",
+  "license_file": "LICENSE",
+  "license_name": "lfm1.0",
+  "license_sha256": "5188f2b355da20647257a3156db5834c794e5fb5e6d8dc4d4cdbb3180e75b85b"
+ },
+ "LiquidAI/LFM2.5-Audio-1.5B-JP-GGUF": {
+  "changed": null,
+  "created": "2026-05-27",
+  "first_seen": "2026-11-04",
+  "gated": false,
+  "license": "other",
+  "license_file": "LICENSE",
+  "license_name": "lfm1.0",
+  "license_sha256": "c138fe99cb339429d6daba8aa44c3dc5996e1a8caf55dec76170f8d2d626ddf7"
+ },
+ "LiquidAI/LFM3-1.7B-MLX-5bit": {
+  "changed": null,
+  "created": "2026-10-27",
+  "first_seen": "2026-11-04",
+  "gated": false,
+  "license": "other",
+  "license_file": "LICENSE",
+  "license_name": "lfm1.0",
+  "license_sha256": "4d28ca14dedc0b3d0fcc2b3339f0e79931faa33874f3d24f522183a8fc70068c"
+ },
+ "LiquidAI/LFM3-Audio-2B-GGUF": {
+  "changed": null,
+  "created": "2026-10-27",
+  "first_seen": "2026-11-04",
+  "gated": false,
+  "license": "other",
+  "license_file": "LICENSE",
+  "license_name": "lfm1.0",
+  "license_sha256": "4d28ca14dedc0b3d0fcc2b3339f0e79931faa33874f3d24f522183a8fc70068c"
+ },
+ "LiquidAI/d1-2B-GGUF": {
+  "changed": null,
+  "created": "2026-10-27",
+  "first_seen": "2026-11-04",
+  "gated": false,
+  "license": "other",
+  "license_file": "LICENSE",
+  "license_name": "lfm1.0",
+  "license_sha256": "4d28ca14dedc0b3d0fcc2b3339f0e79931faa33874f3d24f522183a8fc70068c"
+ },
+ "LiquidAI/d1-Omni-2B-GGUF": {
+  "changed": null,
+  "created": "2026-10-27",
+  "first_seen": "2026-11-04",
+  "gated": false,
+  "license": "other",
+  "license_file": "LICENSE",
+  "license_name": "lfm1.0",
+  "license_sha256": "4d28ca14dedc0b3d0fcc2b3339f0e79931faa33874f3d24f522183a8fc70068c"
+ },
+ "MiniMaxAI/MiniMax-H3": {
+  "changed": null,
+  "created": "2026-07-28",
+  "first_seen": "2026-11-04",
+  "gated": false,
+  "license": "other",
+  "license_file": "LICENSE",
+  "license_name": "minimax-h3-community-license-agreement",
+  "license_sha256": "59b99642b95ea21630e311198ddbfffbfe05aadba0c2f5d884cbdf4efcc90f44"
+ },
+ "MiniMaxAI/MiniMax-M2.5": {
+  "changed": null,
+  "created": "2026-02-12",
+  "first_seen": "2026-11-04",
+  "gated": false,
+  "license": "other",
+  "license_file": "LICENSE-MODEL",
+  "license_name": "modified-mit",
+  "license_sha256": "278b29a14cf6b0cc60519617909af61fa4a6aca4ee928d6178cb9799785c5cc0"
+ },
+ "MiniMaxAI/MiniMax-M2.7": {
+  "changed": null,
+  "created": "2026-04-09",
+  "first_seen": "2026-11-04",
+  "gated": false,
+  "license": "other",
+  "license_file": "LICENSE",
+  "license_name": "other",
+  "license_sha256": "6373a886779a26e56af8070699ebaa8f90104cadcc7bbf6897037f72017bedfe"
+ },
+ "MiniMaxAI/MiniMax-M3": {
+  "changed": null,
+  "created": "2026-06-02",
+  "first_seen": "2026-11-04",
+  "gated": false,
+  "license": "other",
+  "license_file": "LICENSE",
+  "license_name": "minimax-community",
+  "license_sha256": "b53f2fdda3049b0e9013207be51efc2d372cda1fcfdd8bb4bb8b22658ca5db9c"
+ },
+ "MiniMaxAI/MiniMax-M3-MXFP8": {
+  "changed": null,
+  "created": "2026-06-02",
+  "first_seen": "2026-11-04",
+  "gated": false,
+  "license": "other",
+  "license_file": "LICENSE",
+  "license_name": "minimax-community",
+  "license_sha256": "b53f2fdda3049b0e9013207be51efc2d372cda1fcfdd8bb4bb8b22658ca5db9c"
+ },
+ "MiniMaxAI/MiniMax-M3.1-Flash": {
+  "changed": null,
+  "created": "2026-10-17",
+  "first_seen": "2026-11-04",
+  "gated": false,
+  "license": "other",
+  "license_file": "LICENSE",
+  "license_name": "minimax-community",
+  "license_sha256": "8c4978e3e0fe0349ff929cc8450463cba3039c4c9fc144d8bd5382ab00df247a"
+ },
+ "MiniMaxAI/MiniMax-Music3": {
+  "changed": null,
+  "created": "2026-08-07",
+  "first_seen": "2026-11-04",
+  "gated": false,
+  "license": null,
+  "license_file": "LICENSE",
+  "license_name": null,
+  "license_sha256": "b21d12df2adae59dad3fcf80c1d81492654c662342f497d9a9770198c9317e58"
+ },
+ "Qwen/Qwen-Image-2.1": {
+  "changed": null,
+  "created": "2026-09-14",
+  "first_seen": "2026-11-04",
+  "gated": false,
+  "license": "other",
+  "license_file": "LICENSE",
+  "license_name": "qwen-research",
+  "license_sha256": "8dc973f024ff95966bea25866efa443fd16776dcb1001e681e3d467ea572b28d"
+ },
+ "Qwen/Qwen-Image-2.1-PE-I2I": {
+  "changed": null,
+  "created": "2026-09-20",
+  "first_seen": "2026-11-04",
+  "gated": false,
+  "license": "other",
+  "license_file": "LICENSE",
+  "license_name": "qwen-research",
+  "license_sha256": "8dc973f024ff95966bea25866efa443fd16776dcb1001e681e3d467ea572b28d"
+ },
+ "Qwen/Qwen-Image-2.1-PE-T2I": {
+  "changed": null,
+  "created": "2026-09-20",
+  "first_seen": "2026-11-04",
+  "gated": false,
+  "license": "other",
+  "license_file": "LICENSE",
+  "license_name": "qwen-research",
+  "license_sha256": "8dc973f024ff95966bea25866efa443fd16776dcb1001e681e3d467ea572b28d"
+ },
+ "Qwen/Qwen-Image-2.1-Turbo": {
+  "changed": null,
+  "created": "2026-10-09",
+  "first_seen": "2026-11-04",
+  "gated": false,
+  "license": "other",
+  "license_file": "LICENSE",
+  "license_name": "qwen-research",
+  "license_sha256": "8dc973f024ff95966bea25866efa443fd16776dcb1001e681e3d467ea572b28d"
+ },
+ "Qwen/Qwen3-0.6B": {
+  "changed": null,
+  "created": "2025-04-27",
+  "first_seen": "2026-11-04",
+  "gated": false,
+  "license": "apache-2.0",
+  "license_file": "LICENSE",
+  "license_name": null,
+  "license_sha256": "832dd9e00a68dd83b3c3fb9f5588dad7dcf337a0db50f7d9483f310cd292e92e"
+ },
+ "Qwen/Qwen3-14B": {
+  "changed": null,
+  "created": "2025-04-27",
+  "first_seen": "2026-11-04",
+  "gated": false,
+  "license": "apache-2.0",
+  "license_file": "LICENSE",
+  "license_name": null,
+  "license_sha256": "832dd9e00a68dd83b3c3fb9f5588dad7dcf337a0db50f7d9483f310cd292e92e"
+ },
+ "Qwen/Qwen3-4B": {
+  "changed": null,
+  "created": "2025-04-27",
+  "first_seen": "2026-11-04",
+  "gated": false,
+  "license": "apache-2.0",
+  "license_file": "LICENSE",
+  "license_name": null,
+  "license_sha256": "832dd9e00a68dd83b3c3fb9f5588dad7dcf337a0db50f7d9483f310cd292e92e"
+ },
+ "Qwen/Qwen3-Embedding-0.6B": {
+  "changed": null,
+  "created": "2025-06-03",
+  "first_seen": "2026-11-04",
+  "gated": false,
+  "license": "apache-2.0",
+  "license_file": null,
+  "license_name": null,
+  "license_sha256": null
+ },
+ "allenai/AstaBrief_8B_SFT": {
+  "changed": null,
+  "created": "2026-09-10",
+  "first_seen": "2026-11-04",
+  "gated": false,
+  "license": "apache-2.0",
+  "license_file": null,
+  "license_name": null,
+  "license_sha256": null
+ },
+ "allenai/HiRO-ACEv2": {
+  "changed": null,
+  "created": "2026-10-12",
+  "first_seen": "2026-11-04",
+  "gated": false,
+  "license": "apache-2.0",
+  "license_file": null,
+  "license_name": null,
+  "license_sha256": null
+ },
+ "allenai/OlmoEarth-v1_2-FT-LFMC-Base": {
+  "changed": null,
+  "created": "2026-10-23",
+  "first_seen": "2026-11-04",
+  "gated": false,
+  "license": "other",
+  "license_file": "LICENSE.txt",
+  "license_name": "olmoearth-artifact-license",
+  "license_sha256": "8836c30b00c12e5a4e9a4b681f85cc37a6e2cb150fd1d9795ef9f2767d945077"
+ },
+ "allenai/OlmoEarth-v1_3-Base": {
+  "changed": null,
+  "created": "2026-09-04",
+  "first_seen": "2026-11-04",
+  "gated": false,
+  "license": "other",
+  "license_file": "LICENSE.txt",
+  "license_name": null,
+  "license_sha256": "f9906ca382b72377a8d0a7506946ba9c64607044eb7ff8deb2337e868856abf7"
+ },
+ "allenai/longformer-base-4096": {
+  "changed": null,
+  "created": "2022-03-02",
+  "first_seen": "2026-11-04",
+  "gated": false,
+  "license": "apache-2.0",
+  "license_file": null,
+  "license_name": null,
+  "license_sha256": null
+ },
+ "allenai/olmOCR-7B-0825-FP8": {
+  "changed": null,
+  "created": "2025-08-13",
+  "first_seen": "2026-11-04",
+  "gated": false,
+  "license": "apache-2.0",
+  "license_file": null,
+  "license_name": null,
+  "license_sha256": null
+ },
+ "allenai/scibert_scivocab_uncased": {
+  "changed": null,
+  "created": "2022-03-02",
+  "first_seen": "2026-11-04",
+  "gated": false,
+  "license": null,
+  "license_file": null,
+  "license_name": null,
+  "license_sha256": null
+ },
+ "allenai/specter2_base": {
+  "changed": null,
+  "created": "2023-02-16",
+  "first_seen": "2026-11-04",
+  "gated": false,
+  "license": "apache-2.0",
+  "license_file": null,
+  "license_name": null,
+  "license_sha256": null
+ },
+ "baidu/ERNIE-4.5-21B-A3B-Thinking": {
+  "changed": null,
+  "created": "2025-09-08",
+  "first_seen": "2026-11-04",
+  "gated": false,
+  "license": "apache-2.0",
+  "license_file": "LICENSE",
+  "license_name": null,
+  "license_sha256": "5d7deeaff0d6f92ef5c74658a46e4750ccbcd0602efcdfd24cd7ec6ae7c822f9"
+ },
+ "baidu/ERNIE-Image-Aes": {
+  "changed": null,
+  "created": "2026-05-18",
+  "first_seen": "2026-11-04",
+  "gated": false,
+  "license": "apache-2.0",
+  "license_file": null,
+  "license_name": null,
+  "license_sha256": null
+ },
+ "baidu/NAVA": {
+  "changed": null,
+  "created": "2026-05-29",
+  "first_seen": "2026-11-04",
+  "gated": false,
+  "license": "apache-2.0",
+  "license_file": "LICENSE",
+  "license_name": null,
+  "license_sha256": "29fc94bd334b0fcb6ee8db8b2bc8c7e1f6a067724a36c88c9b9cfb8dd48434a0"
+ },
+ "baidu/Qianfan-OCR": {
+  "changed": null,
+  "created": "2026-03-18",
+  "first_seen": "2026-11-04",
+  "gated": false,
+  "license": "apache-2.0",
+  "license_file": "LICENSE",
+  "license_name": null,
+  "license_sha256": "58d1e17ffe5109a7ae296caafcadfdbe6a7d176f0bc4ab01e12a689b0499d8bd"
+ },
+ "baidu/Unlimited-OCR": {
+  "changed": null,
+  "created": "2026-06-19",
+  "first_seen": "2026-11-04",
+  "gated": false,
+  "license": "mit",
+  "license_file": "LICENSE",
+  "license_name": null,
+  "license_sha256": "d985048c6d69429d685fdbe7557340aa0897c0fd8dc038299b148b9c75dc3383"
+ },
+ "baidu/Unlimited-OCR-2": {
+  "changed": null,
+  "created": "2026-10-26",
+  "first_seen": "2026-11-04",
+  "gated": false,
+  "license": "mit",
+  "license_file": null,
+  "license_name": null,
+  "license_sha256": null
+ },
+ "black-forest-labs/FLUX.1-dev": {
+  "changed": null,
+  "created": "2024-07-31",
+  "first_seen": "2026-11-04",
+  "gated": true,
+  "license": "other",
+  "license_file": "LICENSE.md",
+  "license_name": "flux-1-dev-non-commercial-license",
+  "license_sha256": "6f7b3d94ddd94380a4dc2d1211ed57883d320dea96f4393b34d4a454041029e1"
+ },
+ "black-forest-labs/FLUX.2-klein-4b-fp8": {
+  "changed": null,
+  "created": "2026-01-14",
+  "first_seen": "2026-11-04",
+  "gated": false,
+  "license": "apache-2.0",
+  "license_file": "LICENSE.md",
+  "license_name": null,
+  "license_sha256": "ca02bc51900ab07789d1b70283329e7137f5af98f5161c23a1c81fc38a4af1fe"
+ },
+ "black-forest-labs/FLUX.2-klein-base-4B": {
+  "changed": null,
+  "created": "2026-01-14",
+  "first_seen": "2026-11-04",
+  "gated": false,
+  "license": "apache-2.0",
+  "license_file": "LICENSE.md",
+  "license_name": null,
+  "license_sha256": "ca02bc51900ab07789d1b70283329e7137f5af98f5161c23a1c81fc38a4af1fe"
+ },
+ "black-forest-labs/flux-3-image-klein": {
+  "changed": null,
+  "created": "2026-10-13",
+  "first_seen": "2026-11-04",
+  "gated": true,
+  "license": "other",
+  "license_file": "LICENSE.md",
+  "license_name": "flux-kommunity-license",
+  "license_sha256": "100a3a5af8f1a2943dca0d127671bcaa93ad894a63330825219f1a0a44451f22"
+ },
+ "black-forest-labs/flux-3-image-klein-base": {
+  "changed": null,
+  "created": "2026-10-13",
+  "first_seen": "2026-11-04",
+  "gated": true,
+  "license": "other",
+  "license_file": "LICENSE.md",
+  "license_name": "flux-kommunity-license",
+  "license_sha256": "100a3a5af8f1a2943dca0d127671bcaa93ad894a63330825219f1a0a44451f22"
+ },
+ "black-forest-labs/flux-3-image-klein-comfy": {
+  "changed": null,
+  "created": "2026-10-14",
+  "first_seen": "2026-11-04",
+  "gated": true,
+  "license": "other",
+  "license_file": "LICENSE.md",
+  "license_name": "flux-kommunity-license",
+  "license_sha256": "100a3a5af8f1a2943dca0d127671bcaa93ad894a63330825219f1a0a44451f22"
+ },
+ "black-forest-labs/flux-3-image-klein-pup": {
+  "changed": null,
+  "created": "2026-10-14",
+  "first_seen": "2026-11-04",
+  "gated": false,
+  "license": "apache-2.0",
+  "license_file": null,
+  "license_name": null,
+  "license_sha256": null
+ },
+ "deepseek-ai/DeepSeek-OCR": {
+  "changed": null,
+  "created": "2025-10-17",
+  "first_seen": "2026-11-04",
+  "gated": false,
+  "license": "mit",
+  "license_file": "LICENSE",
+  "license_name": null,
+  "license_sha256": "f2c6c602815669d292889e5be8c802f2ed950653b77999b1584e8e6aed25d040"
+ },
+ "deepseek-ai/DeepSeek-V3.2": {
+  "changed": null,
+  "created": "2025-12-01",
+  "first_seen": "2026-11-04",
+  "gated": false,
+  "license": "mit",
+  "license_file": "LICENSE",
+  "license_name": null,
+  "license_sha256": "f2c6c602815669d292889e5be8c802f2ed950653b77999b1584e8e6aed25d040"
+ },
+ "deepseek-ai/DeepSeek-V4-Flash-0731": {
+  "changed": null,
+  "created": "2026-07-31",
+  "first_seen": "2026-11-04",
+  "gated": false,
+  "license": "mit",
+  "license_file": "LICENSE",
+  "license_name": null,
+  "license_sha256": "f2c6c602815669d292889e5be8c802f2ed950653b77999b1584e8e6aed25d040"
+ },
+ "deepseek-ai/DeepSeek-V4-Flash-Vision-Exp": {
+  "changed": null,
+  "created": "2026-08-31",
+  "first_seen": "2026-11-04",
+  "gated": false,
+  "license": "mit",
+  "license_file": "LICENSE",
+  "license_name": null,
+  "license_sha256": "f2c6c602815669d292889e5be8c802f2ed950653b77999b1584e8e6aed25d040"
+ },
+ "deepseek-ai/DeepSeek-V4-Pro-0813": {
+  "changed": null,
+  "created": "2026-08-13",
+  "first_seen": "2026-11-04",
+  "gated": false,
+  "license": "mit",
+  "license_file": "LICENSE",
+  "license_name": null,
+  "license_sha256": "f2c6c602815669d292889e5be8c802f2ed950653b77999b1584e8e6aed25d040"
+ },
+ "deepseek-ai/DeepSeek-V4.1-Flash": {
+  "changed": null,
+  "created": "2026-09-10",
+  "first_seen": "2026-11-04",
+  "gated": false,
+  "license": "mit",
+  "license_file": "LICENSE",
+  "license_name": null,
+  "license_sha256": "f2c6c602815669d292889e5be8c802f2ed950653b77999b1584e8e6aed25d040"
+ },
+ "deepseek-ai/DeepSeek-V4.1-Flash-1017": {
+  "changed": null,
+  "created": "2026-10-17",
+  "first_seen": "2026-11-04",
+  "gated": false,
+  "license": "mit",
+  "license_file": "LICENSE",
+  "license_name": null,
+  "license_sha256": "f2c6c602815669d292889e5be8c802f2ed950653b77999b1584e8e6aed25d040"
+ },
+ "google/electra-base-discriminator": {
+  "changed": null,
+  "created": "2022-03-02",
+  "first_seen": "2026-11-04",
+  "gated": false,
+  "license": "apache-2.0",
+  "license_file": null,
+  "license_name": null,
+  "license_sha256": null
+ },
+ "google/embeddinggemma-2": {
+  "changed": null,
+  "created": "2026-09-14",
+  "first_seen": "2026-11-04",
+  "gated": false,
+  "license": "apache-2.0",
+  "license_file": null,
+  "license_name": null,
+  "license_sha256": null
+ },
+ "google/gemma-4-26B-A4B-it": {
+  "changed": null,
+  "created": "2026-03-11",
+  "first_seen": "2026-11-04",
+  "gated": false,
+  "license": "apache-2.0",
+  "license_file": null,
+  "license_name": null,
+  "license_sha256": null
+ },
+ "google/gemma-4-31B-it": {
+  "changed": null,
+  "created": "2026-03-11",
+  "first_seen": "2026-11-04",
+  "gated": false,
+  "license": "apache-2.0",
+  "license_file": null,
+  "license_name": null,
+  "license_sha256": null
+ },
+ "google/gnm-v3": {
+  "changed": null,
+  "created": "2026-09-01",
+  "first_seen": "2026-11-04",
+  "gated": false,
+  "license": "apache-2.0",
+  "license_file": null,
+  "license_name": null,
+  "license_sha256": null
+ },
+ "google/timesfm-3.0-pytorch": {
+  "changed": null,
+  "created": "2026-08-24",
+  "first_seen": "2026-11-04",
+  "gated": false,
+  "license": "other",
+  "license_file": "LICENSE",
+  "license_name": "timesfm-non-commercial-license-v1.0",
+  "license_sha256": "3e36db7240d23adb6ac6d7d931892dcc5706a14a7d31581f08c35d2f25736dfd"
+ },
+ "google/tipsv1-g14-lowres": {
+  "changed": null,
+  "created": "2026-08-19",
+  "first_seen": "2026-11-04",
+  "gated": false,
+  "license": "apache-2.0",
+  "license_file": null,
+  "license_name": null,
+  "license_sha256": null
+ },
+ "google/vit-base-patch16-224": {
+  "changed": null,
+  "created": "2022-03-02",
+  "first_seen": "2026-11-04",
+  "gated": false,
+  "license": "apache-2.0",
+  "license_file": null,
+  "license_name": null,
+  "license_sha256": null
+ },
+ "ibm-granite/granite-4.1-3b": {
+  "changed": null,
+  "created": "2026-04-06",
+  "first_seen": "2026-11-04",
+  "gated": false,
+  "license": "apache-2.0",
+  "license_file": null,
+  "license_name": null,
+  "license_sha256": null
+ },
+ "ibm-granite/granite-embedding-small-english-r2": {
+  "changed": null,
+  "created": "2025-07-17",
+  "first_seen": "2026-11-04",
+  "gated": false,
+  "license": "apache-2.0",
+  "license_file": null,
+  "license_name": null,
+  "license_sha256": null
+ },
+ "ibm-granite/granite-speech-5.0-2b-ONNX": {
+  "changed": null,
+  "created": "2026-10-28",
+  "first_seen": "2026-11-04",
+  "gated": false,
+  "license": "apache-2.0",
+  "license_file": null,
+  "license_name": null,
+  "license_sha256": null
+ },
+ "ibm-granite/granite-switch-4.1-30b-GGUF": {
+  "changed": null,
+  "created": "2026-10-22",
+  "first_seen": "2026-11-04",
+  "gated": false,
+  "license": "apache-2.0",
+  "license_file": null,
+  "license_name": null,
+  "license_sha256": null
+ },
+ "ibm-granite/granite-switch-4.1-8b": {
+  "changed": null,
+  "created": "2026-10-14",
+  "first_seen": "2026-11-04",
+  "gated": false,
+  "license": "apache-2.0",
+  "license_file": null,
+  "license_name": null,
+  "license_sha256": null
+ },
+ "ibm-granite/granite-switch-4.1-8b-GGUF": {
+  "changed": null,
+  "created": "2026-10-22",
+  "first_seen": "2026-11-04",
+  "gated": false,
+  "license": "apache-2.0",
+  "license_file": null,
+  "license_name": null,
+  "license_sha256": null
+ },
+ "ibm-granite/granite-timeseries-tspulse-r1": {
+  "changed": null,
+  "created": "2025-06-03",
+  "first_seen": "2026-11-04",
+  "gated": false,
+  "license": "apache-2.0",
+  "license_file": null,
+  "license_name": null,
+  "license_sha256": null
+ },
+ "ibm-granite/granite-timeseries-ttm-r3": {
+  "changed": null,
+  "created": "2026-05-21",
+  "first_seen": "2026-11-04",
+  "gated": false,
+  "license": "apache-2.0",
+  "license_file": null,
+  "license_name": null,
+  "license_sha256": null
+ },
+ "meta-llama/Llama-3.1-8B-Instruct": {
+  "changed": null,
+  "created": "2024-07-18",
+  "first_seen": "2026-11-04",
+  "gated": true,
+  "license": "llama3.1",
+  "license_file": "LICENSE",
+  "license_name": null,
+  "license_sha256": "64e1b2889b7892e6bbe7a7ed5bfe6ff793c61f9d584345f8f41cf9f5cb30a369"
+ },
+ "meta-llama/Llama-3.2-1B-Instruct": {
+  "changed": null,
+  "created": "2024-09-18",
+  "first_seen": "2026-11-04",
+  "gated": true,
+  "license": "llama3.2",
+  "license_file": "LICENSE.txt",
+  "license_name": null,
+  "license_sha256": "0b4284c1f87029e67654c7953afa16279961632cf73dcfe33374c4c2f298fa35"
+ },
+ "meta-llama/Llama-3.2-3B-Instruct": {
+  "changed": null,
+  "created": "2024-09-18",
+  "first_seen": "2026-11-04",
+  "gated": true,
+  "license": "llama3.2",
+  "license_file": "LICENSE.txt",
+  "license_name": null,
+  "license_sha256": "0b4284c1f87029e67654c7953afa16279961632cf73dcfe33374c4c2f298fa35"
+ },
+ "meta-llama/Llama-4-Maverick-17B-128E-Instruct-FP8-Original": {
+  "changed": null,
+  "created": "2025-04-04",
+  "first_seen": "2026-11-04",
+  "gated": true,
+  "license": "other",
+  "license_file": "LICENSE",
+  "license_name": "llama4",
+  "license_sha256": "f95172ae8c823aebb14f73810fc71ce026e27555a17134d4720233caf8c2b2f0"
+ },
+ "meta-llama/Llama-Guard-4-12B": {
+  "changed": null,
+  "created": "2025-04-23",
+  "first_seen": "2026-11-04",
+  "gated": true,
+  "license": "other",
+  "license_file": "LICENSE",
+  "license_name": "llama4",
+  "license_sha256": "73755cee886613ae3135140882289e0a4955d5f0e90f8b1c1ffc962aa9082917"
+ },
+ "meta-llama/Llama-Prompt-Guard-2-22M": {
+  "changed": null,
+  "created": "2025-04-28",
+  "first_seen": "2026-11-04",
+  "gated": true,
+  "license": "other",
+  "license_file": "LICENSE",
+  "license_name": "llama4",
+  "license_sha256": "73755cee886613ae3135140882289e0a4955d5f0e90f8b1c1ffc962aa9082917"
+ },
+ "meta-llama/Llama-Prompt-Guard-2-86M": {
+  "changed": null,
+  "created": "2025-04-28",
+  "first_seen": "2026-11-04",
+  "gated": true,
+  "license": "other",
+  "license_file": "LICENSE",
+  "license_name": "llama4",
+  "license_sha256": "73755cee886613ae3135140882289e0a4955d5f0e90f8b1c1ffc962aa9082917"
+ },
+ "meta-llama/Prompt-Guard-86M": {
+  "changed": null,
+  "created": "2024-07-21",
+  "first_seen": "2026-11-04",
+  "gated": true,
+  "license": "llama3.1",
+  "license_file": "LICENSE",
+  "license_name": null,
+  "license_sha256": "64e1b2889b7892e6bbe7a7ed5bfe6ff793c61f9d584345f8f41cf9f5cb30a369"
+ },
+ "microsoft/Florence-2-base": {
+  "changed": null,
+  "created": "2024-06-15",
+  "first_seen": "2026-11-04",
+  "gated": false,
+  "license": "mit",
+  "license_file": "LICENSE",
+  "license_name": null,
+  "license_sha256": "c2cfccb812fe482101a8f04597dfc5a9991a6b2748266c47ac91b6a5aae15383"
+ },
+ "microsoft/Mage-VL-Cowork": {
+  "changed": null,
+  "created": "2026-10-30",
+  "first_seen": "2026-11-04",
+  "gated": false,
+  "license": "apache-2.0",
+  "license_file": "LICENSE",
+  "license_name": null,
+  "license_sha256": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30"
+ },
+ "microsoft/Sentiment-Analysis-7B": {
+  "changed": null,
+  "created": "2026-10-17",
+  "first_seen": "2026-11-04",
+  "gated": false,
+  "license": "mit",
+  "license_file": null,
+  "license_name": null,
+  "license_sha256": null
+ },
+ "microsoft/TRELLIS-image-large": {
+  "changed": null,
+  "created": "2024-12-02",
+  "first_seen": "2026-11-04",
+  "gated": false,
+  "license": "mit",
+  "license_file": null,
+  "license_name": null,
+  "license_sha256": null
+ },
+ "microsoft/TRELLIS.2-4B": {
+  "changed": null,
+  "created": "2025-12-01",
+  "first_seen": "2026-11-04",
+  "gated": false,
+  "license": "mit",
+  "license_file": null,
+  "license_name": null,
+  "license_sha256": null
+ },
+ "microsoft/UserRepGen-4B": {
+  "changed": null,
+  "created": "2026-10-14",
+  "first_seen": "2026-11-04",
+  "gated": false,
+  "license": "mit",
+  "license_file": "LICENSE.Qwen",
+  "license_name": null,
+  "license_sha256": "bbedc3fda3305820b977265f01b8619d87570a6739de3a5582c3464840f1e57a"
+ },
+ "microsoft/mdeberta-v3-base": {
+  "changed": null,
+  "created": "2022-03-02",
+  "first_seen": "2026-11-04",
+  "gated": false,
+  "license": "mit",
+  "license_file": null,
+  "license_name": null,
+  "license_sha256": null
+ },
+ "microsoft/scFM-dataselection": {
+  "changed": null,
+  "created": "2026-10-16",
+  "first_seen": "2026-11-04",
+  "gated": false,
+  "license": "mit",
+  "license_file": "LICENSE",
+  "license_name": null,
+  "license_sha256": "c2cfccb812fe482101a8f04597dfc5a9991a6b2748266c47ac91b6a5aae15383"
+ },
+ "mistralai/Mistral-7B-Instruct-v0.2": {
+  "changed": null,
+  "created": "2023-12-11",
+  "first_seen": "2026-11-04",
+  "gated": false,
+  "license": "apache-2.0",
+  "license_file": null,
+  "license_name": null,
+  "license_sha256": null
+ },
+ "mistralai/Mistral-7B-Instruct-v0.3": {
+  "changed": null,
+  "created": "2024-05-22",
+  "first_seen": "2026-11-04",
+  "gated": false,
+  "license": "apache-2.0",
+  "license_file": null,
+  "license_name": null,
+  "license_sha256": null
+ },
+ "mistralai/Mistral-7B-v0.1": {
+  "changed": null,
+  "created": "2023-09-20",
+  "first_seen": "2026-11-04",
+  "gated": false,
+  "license": "apache-2.0",
+  "license_file": null,
+  "license_name": null,
+  "license_sha256": null
+ },
+ "mistralai/Mistral-Large-4-1T-A52B-NVFP4": {
+  "changed": null,
+  "created": "2026-10-15",
+  "first_seen": "2026-11-04",
+  "gated": false,
+  "license": "other",
+  "license_file": "LICENSE",
+  "license_name": null,
+  "license_sha256": "d242ebedb53ffd7e26c220e3305665ca47e4e5267fa62ff4cdeb3953b8353c78"
+ },
+ "mistralai/Timestral-123M": {
+  "changed": null,
+  "created": "2026-10-14",
+  "first_seen": "2026-11-04",
+  "gated": false,
+  "license": "other",
+  "license_file": "LICENSE",
+  "license_name": null,
+  "license_sha256": "648194727930df730890e9f9affdbcc5c930d406d6829559b25ca3d5a973fc8c"
+ },
+ "mistralai/Timestral-28M": {
+  "changed": null,
+  "created": "2026-10-14",
+  "first_seen": "2026-11-04",
+  "gated": false,
+  "license": "other",
+  "license_file": "LICENSE",
+  "license_name": null,
+  "license_sha256": "648194727930df730890e9f9affdbcc5c930d406d6829559b25ca3d5a973fc8c"
+ },
+ "mistralai/Timestral-5M": {
+  "changed": null,
+  "created": "2026-10-14",
+  "first_seen": "2026-11-04",
+  "gated": false,
+  "license": "other",
+  "license_file": "LICENSE",
+  "license_name": null,
+  "license_sha256": "648194727930df730890e9f9affdbcc5c930d406d6829559b25ca3d5a973fc8c"
+ },
+ "mistralai/Voxtral-Mini-4B-Realtime-2602": {
+  "changed": null,
+  "created": "2026-01-21",
+  "first_seen": "2026-11-04",
+  "gated": false,
+  "license": "apache-2.0",
+  "license_file": null,
+  "license_name": null,
+  "license_sha256": null
+ },
+ "moonshotai/Kimi-K2-Instruct": {
+  "changed": null,
+  "created": "2025-07-11",
+  "first_seen": "2026-11-04",
+  "gated": false,
+  "license": "other",
+  "license_file": "LICENSE",
+  "license_name": "modified-mit",
+  "license_sha256": "b280da6f496d75e0c5beb79b03520d190fce67dfe12f75cf3aadad8670839d93"
+ },
+ "moonshotai/Kimi-K2.5": {
+  "changed": null,
+  "created": "2026-01-01",
+  "first_seen": "2026-11-04",
+  "gated": false,
+  "license": "other",
+  "license_file": "LICENSE",
+  "license_name": "modified-mit",
+  "license_sha256": "c524b41658421b8b143c5b50637ef008909da56013ad12ccaba0536139ee35b0"
+ },
+ "moonshotai/Kimi-K2.6": {
+  "changed": null,
+  "created": "2026-04-14",
+  "first_seen": "2026-11-04",
+  "gated": false,
+  "license": "other",
+  "license_file": "LICENSE",
+  "license_name": "modified-mit",
+  "license_sha256": "1d4ab2d8404287de44429024a78b58d3aabc4df9d0c490e73fec9ff1fd842529"
+ },
+ "moonshotai/Kimi-K2.7-Code": {
+  "changed": null,
+  "created": "2026-06-11",
+  "first_seen": "2026-11-04",
+  "gated": false,
+  "license": "other",
+  "license_file": "LICENSE",
+  "license_name": "modified-mit",
+  "license_sha256": "9cb73476cecdfabac7775bf7c225bd5f6017d5d678372917e4456964c0454f7a"
+ },
+ "moonshotai/Kimi-K3": {
+  "changed": null,
+  "created": "2026-06-13",
+  "first_seen": "2026-11-04",
+  "gated": false,
+  "license": "other",
+  "license_file": "LICENSE",
+  "license_name": "kimi-k3",
+  "license_sha256": "20c797ce19af0c17de52c6afb144644768a591c521655f5ebf5712c9850f2887"
+ },
+ "moonshotai/Kimi-K3.1-Pro": {
+  "changed": null,
+  "created": "2026-11-02",
+  "first_seen": "2026-11-04",
+  "gated": false,
+  "license": "other",
+  "license_file": "LICENSE",
+  "license_name": "kimi-k3.1-pro",
+  "license_sha256": "da05c356f773d22a0e1c6de390f280304d7cee6eb56fa161aa789d30dedba63b"
+ },
+ "nvidia/DeepSeek-V4.1-Flash-1017-NVFP4": {
+  "changed": null,
+  "created": "2026-10-30",
+  "first_seen": "2026-11-04",
+  "gated": false,
+  "license": "mit",
+  "license_file": "LICENSE",
+  "license_name": null,
+  "license_sha256": "f2c6c602815669d292889e5be8c802f2ed950653b77999b1584e8e6aed25d040"
+ },
+ "nvidia/InternVideo2-CLIP-anomaly-detection": {
+  "changed": null,
+  "created": "2026-10-22",
+  "first_seen": "2026-11-04",
+  "gated": false,
+  "license": "other",
+  "license_file": null,
+  "license_name": "nvidia-internal-scientific-research-and-development-model-license",
+  "license_sha256": null
+ },
+ "nvidia/Metatron-v1": {
+  "changed": null,
+  "created": "2026-10-27",
+  "first_seen": "2026-11-04",
+  "gated": false,
+  "license": "other",
+  "license_file": "LICENSE.pdf",
+  "license_name": "nvidia-open-model-license",
+  "license_sha256": "d5e1a966afb1288fba4bc15349a17c725c20f3904bbf2f959ca9ca29e18300ad"
+ },
+ "nvidia/MotionBricks": {
+  "changed": null,
+  "created": "2026-10-23",
+  "first_seen": "2026-11-04",
+  "gated": false,
+  "license": null,
+  "license_file": null,
+  "license_name": null,
+  "license_sha256": null
+ },
+ "nvidia/NVIDIA-Nemotron-3-Nano-30B-A3B-BF16": {
+  "changed": null,
+  "created": "2025-12-04",
+  "first_seen": "2026-11-04",
+  "gated": false,
+  "license": "other",
+  "license_file": null,
+  "license_name": "nvidia-nemotron-open-model-license",
+  "license_sha256": null
+ },
+ "nvidia/NVIDIA-Nemotron-3-Nano-4B-BF16": {
+  "changed": null,
+  "created": "2026-03-07",
+  "first_seen": "2026-11-04",
+  "gated": false,
+  "license": "other",
+  "license_file": "LICENSE",
+  "license_name": "nvidia-nemotron-open-model-license",
+  "license_sha256": null
+ },
+ "nvidia/Qwen3.6-35B-A3B-NVFP4": {
+  "changed": null,
+  "created": "2026-05-27",
+  "first_seen": "2026-11-04",
+  "gated": false,
+  "license": "apache-2.0",
+  "license_file": null,
+  "license_name": null,
+  "license_sha256": null
+ },
+ "nvidia/bigvgan_v2_22khz_80band_256x": {
+  "changed": null,
+  "created": "2024-07-15",
+  "first_seen": "2026-11-04",
+  "gated": false,
+  "license": "mit",
+  "license_file": "LICENSE",
+  "license_name": null,
+  "license_sha256": "90459cd52fc41bd723df7c0c76fac1e4dd60e6bfd644a7e2a93f325bed4f6d95"
+ },
+ "openai/circuit-sparsity": {
+  "changed": null,
+  "created": "2025-12-11",
+  "first_seen": "2026-11-04",
+  "gated": false,
+  "license": "apache-2.0",
+  "license_file": "LICENSE.MD",
+  "license_name": null,
+  "license_sha256": "93548a1b1c0a8d42e7409dfb6e344062aec9c82f6bfe1f3a0b91e4537a01bf31"
+ },
+ "openai/clip-vit-base-patch32": {
+  "changed": null,
+  "created": "2022-03-02",
+  "first_seen": "2026-11-04",
+  "gated": false,
+  "license": null,
+  "license_file": null,
+  "license_name": null,
+  "license_sha256": null
+ },
+ "openai/clip-vit-large-patch14": {
+  "changed": null,
+  "created": "2022-03-02",
+  "first_seen": "2026-11-04",
+  "gated": false,
+  "license": null,
+  "license_file": null,
+  "license_name": null,
+  "license_sha256": null
+ },
+ "openai/gpt-oss-20b": {
+  "changed": null,
+  "created": "2025-08-04",
+  "first_seen": "2026-11-04",
+  "gated": false,
+  "license": "apache-2.0",
+  "license_file": "LICENSE",
+  "license_name": null,
+  "license_sha256": "58d1e17ffe5109a7ae296caafcadfdbe6a7d176f0bc4ab01e12a689b0499d8bd"
+ },
+ "openai/gpt-oss-safeguard-120b": {
+  "changed": null,
+  "created": "2025-09-18",
+  "first_seen": "2026-11-04",
+  "gated": false,
+  "license": "apache-2.0",
+  "license_file": "LICENSE",
+  "license_name": null,
+  "license_sha256": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30"
+ },
+ "openai/gpt-oss-safeguard-20b": {
+  "changed": null,
+  "created": "2025-09-18",
+  "first_seen": "2026-11-04",
+  "gated": false,
+  "license": "apache-2.0",
+  "license_file": "LICENSE",
+  "license_name": null,
+  "license_sha256": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30"
+ },
+ "openai/privacy-filter": {
+  "changed": null,
+  "created": "2026-04-17",
+  "first_seen": "2026-11-04",
+  "gated": false,
+  "license": "apache-2.0",
+  "license_file": null,
+  "license_name": null,
+  "license_sha256": null
+ },
+ "openai/whisper-large-v3-turbo": {
+  "changed": null,
+  "created": "2024-10-01",
+  "first_seen": "2026-11-04",
+  "gated": false,
+  "license": "mit",
+  "license_file": null,
+  "license_name": null,
+  "license_sha256": null
+ },
+ "stabilityai/SAME-L": {
+  "changed": null,
+  "created": "2026-05-17",
+  "first_seen": "2026-11-04",
+  "gated": false,
+  "license": "other",
+  "license_file": "LICENSE.md",
+  "license_name": "stable-audio-community",
+  "license_sha256": "d6f6b1a4dce5c852bd6d7d9482d002baf0ccdb71e662250b73be9eec8764ee8d"
+ },
+ "stabilityai/sd-turbo": {
+  "changed": null,
+  "created": "2023-11-27",
+  "first_seen": "2026-11-04",
+  "gated": false,
+  "license": null,
+  "license_file": "LICENSE.md",
+  "license_name": null,
+  "license_sha256": "d6f6b1a4dce5c852bd6d7d9482d002baf0ccdb71e662250b73be9eec8764ee8d"
+ },
+ "stabilityai/sd-vae-ft-mse": {
+  "changed": null,
+  "created": "2022-10-13",
+  "first_seen": "2026-11-04",
+  "gated": false,
+  "license": "mit",
+  "license_file": null,
+  "license_name": null,
+  "license_sha256": null
+ },
+ "stabilityai/sdxl-base-amdnpu-medusa": {
+  "changed": null,
+  "created": "2026-10-26",
+  "first_seen": "2026-11-04",
+  "gated": false,
+  "license": null,
+  "license_file": null,
+  "license_name": null,
+  "license_sha256": null
+ },
+ "stabilityai/sdxl-turbo": {
+  "changed": null,
+  "created": "2023-11-27",
+  "first_seen": "2026-11-04",
+  "gated": false,
+  "license": "other",
+  "license_file": "LICENSE.md",
+  "license_name": "sai-nc-community",
+  "license_sha256": "d6f6b1a4dce5c852bd6d7d9482d002baf0ccdb71e662250b73be9eec8764ee8d"
+ },
+ "stabilityai/stable-audio-3-optimized": {
+  "changed": null,
+  "created": "2026-05-18",
+  "first_seen": "2026-11-04",
+  "gated": false,
+  "license": "other",
+  "license_file": "LICENSE.md",
+  "license_name": "stable-audio-community",
+  "license_sha256": "d6f6b1a4dce5c852bd6d7d9482d002baf0ccdb71e662250b73be9eec8764ee8d"
+ },
+ "stabilityai/stable-diffusion-3.5-medium-amdnpu-medusa": {
+  "changed": null,
+  "created": "2026-10-26",
+  "first_seen": "2026-11-04",
+  "gated": false,
+  "license": "other",
+  "license_file": null,
+  "license_name": "stabilityai-ai-community",
+  "license_sha256": null
+ },
+ "stabilityai/stable-diffusion-xl-base-1.0": {
+  "changed": null,
+  "created": "2023-07-25",
+  "first_seen": "2026-11-04",
+  "gated": false,
+  "license": "openrail++",
+  "license_file": "LICENSE.md",
+  "license_name": null,
+  "license_sha256": "19b6998b569b53ac1fc2158a8a3202c8699a9a4605b47075715d9c96be7fb6d0"
+ },
+ "stepfun-ai/GOT-OCR-2.0-hf": {
+  "changed": null,
+  "created": "2024-11-22",
+  "first_seen": "2026-11-04",
+  "gated": false,
+  "license": "apache-2.0",
+  "license_file": null,
+  "license_name": null,
+  "license_sha256": null
+ },
+ "stepfun-ai/GOT-OCR2_0": {
+  "changed": null,
+  "created": "2024-09-12",
+  "first_seen": "2026-11-04",
+  "gated": false,
+  "license": "apache-2.0",
+  "license_file": null,
+  "license_name": null,
+  "license_sha256": null
+ },
+ "stepfun-ai/Step-3.5-Flash": {
+  "changed": null,
+  "created": "2026-02-01",
+  "first_seen": "2026-11-04",
+  "gated": false,
+  "license": "apache-2.0",
+  "license_file": null,
+  "license_name": null,
+  "license_sha256": null
+ },
+ "stepfun-ai/Step-3.7-Flash-GGUF": {
+  "changed": null,
+  "created": "2026-05-28",
+  "first_seen": "2026-11-04",
+  "gated": false,
+  "license": "apache-2.0",
+  "license_file": null,
+  "license_name": null,
+  "license_sha256": null
+ },
+ "stepfun-ai/Step-5-Preview": {
+  "changed": null,
+  "created": "2026-09-20",
+  "first_seen": "2026-11-04",
+  "gated": false,
+  "license": "other",
+  "license_file": "LICENSE-CN.txt",
+  "license_name": null,
+  "license_sha256": "58089c5fbd35603027dba5863d82630b661ca9987d8f02b7abc3a86de6bf2a08"
+ },
+ "stepfun-ai/Step-5-Preview-BF16": {
+  "changed": null,
+  "created": "2026-09-20",
+  "first_seen": "2026-11-04",
+  "gated": false,
+  "license": "other",
+  "license_file": "LICENSE-CN.txt",
+  "license_name": null,
+  "license_sha256": "58089c5fbd35603027dba5863d82630b661ca9987d8f02b7abc3a86de6bf2a08"
+ },
+ "stepfun-ai/Step-5-Preview-NVFP4": {
+  "changed": null,
+  "created": "2026-10-14",
+  "first_seen": "2026-11-04",
+  "gated": false,
+  "license": "other",
+  "license_file": "LICENSE-CN.txt",
+  "license_name": "stepfun-model-license-1.0",
+  "license_sha256": "58089c5fbd35603027dba5863d82630b661ca9987d8f02b7abc3a86de6bf2a08"
+ },
+ "stepfun-ai/step3": {
+  "changed": null,
+  "created": "2025-07-28",
+  "first_seen": "2026-11-04",
+  "gated": false,
+  "license": "apache-2.0",
+  "license_file": "LICENSE",
+  "license_name": null,
+  "license_sha256": "58d1e17ffe5109a7ae296caafcadfdbe6a7d176f0bc4ab01e12a689b0499d8bd"
+ },
+ "tencent/HunyuanOCR": {
+  "changed": null,
+  "created": "2025-11-18",
+  "first_seen": "2026-11-04",
+  "gated": false,
+  "license": "other",
+  "license_file": "LICENSE",
+  "license_name": "tencent-hunyuan-community",
+  "license_sha256": "745adaa59575d2a98b64fd6d3452537b477a6b6edc126f742fc055313cc3d3e0"
+ },
+ "tencent/Hy-MT2-1.8B-GGUF": {
+  "changed": null,
+  "created": "2026-05-20",
+  "first_seen": "2026-11-04",
+  "gated": false,
+  "license": "apache-2.0",
+  "license_file": "LICENSE.txt",
+  "license_name": null,
+  "license_sha256": "a1d52d448f81c584a47c583e19dfab2d3851c7c84431b07baee093c1113ed114"
+ },
+ "tencent/Hy-MT2-7B-GGUF": {
+  "changed": null,
+  "created": "2026-05-20",
+  "first_seen": "2026-11-04",
+  "gated": false,
+  "license": "apache-2.0",
+  "license_file": "LICENSE.txt",
+  "license_name": null,
+  "license_sha256": "746750afa6af28fe4f8b326751ad2a40c700d2e5c459c0a1f6a2e76d99ace224"
+ },
+ "tencent/Hy-Nomas-Diffusers": {
+  "changed": null,
+  "created": "2026-10-24",
+  "first_seen": "2026-11-04",
+  "gated": false,
+  "license": "apache-2.0",
+  "license_file": "LICENSE",
+  "license_name": null,
+  "license_sha256": "77b312c08eba7bdf107ab6532abadd8e3a758fcd3d56dbed2580d7872e767d8e"
+ },
+ "tencent/Hy-SimulMT-30B-A3B-Interleave-GGUF": {
+  "changed": null,
+  "created": "2026-10-22",
+  "first_seen": "2026-11-04",
+  "gated": false,
+  "license": null,
+  "license_file": "LICENSE.txt",
+  "license_name": null,
+  "license_sha256": "b426b0a4d3709b20313bed1bb6eca9842ca1ad7bcfa347b0c97b8e053bd77849"
+ },
+ "tencent/Hy3": {
+  "changed": null,
+  "created": "2026-07-02",
+  "first_seen": "2026-11-04",
+  "gated": false,
+  "license": "apache-2.0",
+  "license_file": "LICENSE",
+  "license_name": null,
+  "license_sha256": "76a14d21e741dbbf1572e9c0e6bb809a9bd76f5b4da64a0b89e7331cc77ea84a"
+ },
+ "tencent/WeVisOne-VL-2B": {
+  "changed": null,
+  "created": "2026-10-22",
+  "first_seen": "2026-11-04",
+  "gated": false,
+  "license": "apache-2.0",
+  "license_file": "LICENSE",
+  "license_name": null,
+  "license_sha256": "097f84bbe01f4d987e3342ef0810f98bbbe23bc9c9e53c4003afb74507804269"
+ },
+ "tencent/WeVisOne-VL-4B": {
+  "changed": null,
+  "created": "2026-10-22",
+  "first_seen": "2026-11-04",
+  "gated": false,
+  "license": "apache-2.0",
+  "license_file": "LICENSE",
+  "license_name": null,
+  "license_sha256": "df97da91b705606ff9657f8ce4b4becff382c014e6b94069d1e55224b9d7d6d2"
+ },
+ "zai-org/GLM-5": {
+  "changed": null,
+  "created": "2026-02-11",
+  "first_seen": "2026-11-04",
+  "gated": false,
+  "license": "mit",
+  "license_file": null,
+  "license_name": null,
+  "license_sha256": null
+ },
+ "zai-org/GLM-5.3": {
+  "changed": null,
+  "created": "2026-08-25",
+  "first_seen": "2026-11-04",
+  "gated": false,
+  "license": "other",
+  "license_file": "LICENSE",
+  "license_name": "glm-5.3",
+  "license_sha256": "96e1622099fc9d6b70c9760f007d99e66d7497eec636b63c60fe208401e9170c"
+ },
+ "zai-org/GLM-5.3-BF16": {
+  "changed": null,
+  "created": "2026-08-25",
+  "first_seen": "2026-11-04",
+  "gated": false,
+  "license": "other",
+  "license_file": "LICENSE",
+  "license_name": "glm-5.3",
+  "license_sha256": "96e1622099fc9d6b70c9760f007d99e66d7497eec636b63c60fe208401e9170c"
+ },
+ "zai-org/GLM-5.3-Flash": {
+  "changed": null,
+  "created": "2026-08-25",
+  "first_seen": "2026-11-04",
+  "gated": false,
+  "license": "mit",
+  "license_file": "LICENSE",
+  "license_name": null,
+  "license_sha256": "30b85b6b9659f2e78aa259f8faf5d920a68dee7c9ced3fa6dba1f19f2bc4fca1"
+ },
+ "zai-org/GLM-5.3-Flash-BF16": {
+  "changed": null,
+  "created": "2026-08-25",
+  "first_seen": "2026-11-04",
+  "gated": false,
+  "license": "mit",
+  "license_file": "LICENSE",
+  "license_name": null,
+  "license_sha256": "30b85b6b9659f2e78aa259f8faf5d920a68dee7c9ced3fa6dba1f19f2bc4fca1"
+ },
+ "zai-org/GLM-OCR": {
+  "changed": null,
+  "created": "2026-01-30",
+  "first_seen": "2026-11-04",
+  "gated": false,
+  "license": "mit",
+  "license_file": null,
+  "license_name": null,
+  "license_sha256": null
+ }
+}
