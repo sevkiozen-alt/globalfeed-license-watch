@@ -24,6 +24,14 @@ Each day with at least one change becomes a GitHub release.
 - Click **Watch → Custom → Releases** at the top of this page to get an email for every change.
 - Or follow the feed in any RSS reader: `https://github.com/sevkiozen-alt/globalfeed-license-watch/releases.atom`
 
+## Using the data
+
+Nothing to install and no API key needed. Everything is plain files in this repository.
+
+- **Read in a browser:** the table below, with a link to each license text.
+- **Use in your own code:** fetch `https://raw.githubusercontent.com/sevkiozen-alt/globalfeed-license-watch/main/data/models.json`. It is a static JSON file updated daily, so no account or token is required.
+- **Track other organisations:** fork the repository and edit `orgs.json`. The daily check then runs in your fork through GitHub Actions.
+
 ## Run it yourself
 
 ```bash
