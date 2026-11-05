@@ -1,4 +1,14 @@
 {
+ "ByteDance-Seed/Cross-Layer-TopK-CLT": {
+  "changed": null,
+  "created": "2026-11-05",
+  "first_seen": "2026-11-05",
+  "gated": false,
+  "license": "apache-2.0",
+  "license_file": "LICENSE",
+  "license_name": null,
+  "license_sha256": "ff3421772facb7650fab2c9056c302c3ea9451f3c221d2d172479fc73ca5b125"
+ },
  "ByteDance-Seed/GenFirst": {
   "changed": null,
   "created": "2026-10-29",
@@ -309,6 +319,16 @@
   "license_name": null,
   "license_sha256": null
  },
+ "Qwen/Qwen3.8-27B": {
+  "changed": null,
+  "created": "2026-08-05",
+  "first_seen": "2026-11-05",
+  "gated": false,
+  "license": "apache-2.0",
+  "license_file": "LICENSE",
+  "license_name": null,
+  "license_sha256": "bbedc3fda3305820b977265f01b8619d87570a6739de3a5582c3464840f1e57a"
+ },
  "allenai/AstaBrief_8B_SFT": {
   "changed": null,
   "created": "2026-09-10",
@@ -398,6 +418,26 @@
   "license_file": "LICENSE",
   "license_name": null,
   "license_sha256": "5d7deeaff0d6f92ef5c74658a46e4750ccbcd0602efcdfd24cd7ec6ae7c822f9"
+ },
+ "baidu/ERNIE-5.5-Flash-Base": {
+  "changed": null,
+  "created": "2026-10-21",
+  "first_seen": "2026-11-05",
+  "gated": false,
+  "license": "other",
+  "license_file": "LICENSE",
+  "license_name": "ernie-5.5-flash-base-model-license-v1.0",
+  "license_sha256": "f896ab9f174d0d55943d6c90ec26ba919ec59e03620982370d27181d4497b254"
+ },
+ "baidu/ERNIE-5.5-Flash-Base-BF16": {
+  "changed": null,
+  "created": "2026-10-21",
+  "first_seen": "2026-11-05",
+  "gated": false,
+  "license": "other",
+  "license_file": "LICENSE",
+  "license_name": "ernie-5.5-flash-base-model-license-v1.0",
+  "license_sha256": "f896ab9f174d0d55943d6c90ec26ba919ec59e03620982370d27181d4497b254"
  },
  "baidu/ERNIE-Image-Aes": {
   "changed": null,
@@ -1078,6 +1118,16 @@
   "license_file": "LICENSE.pdf",
   "license_name": "nvidia-open-model-license",
   "license_sha256": "d5e1a966afb1288fba4bc15349a17c725c20f3904bbf2f959ca9ca29e18300ad"
+ },
+ "nvidia/MetricTrail": {
+  "changed": null,
+  "created": "2026-11-05",
+  "first_seen": "2026-11-05",
+  "gated": false,
+  "license": "other",
+  "license_file": null,
+  "license_name": "nvidia-open-model-license",
+  "license_sha256": null
  },
  "nvidia/MotionBricks": {
   "changed": null,

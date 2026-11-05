@@ -43,7 +43,7 @@ Python 3.10 or newer, no dependencies. Set `HF_TOKEN` to also read license files
 ## Current licenses
 
 <!-- table:start -->
-_Last checked: 2026-11-04 · 151 models_
+_Last checked: 2026-11-05 · 156 models_
 
 | Organisation | Model | License | License file | Last change |
 |---|---|---|---|---|
@@ -56,6 +56,8 @@ _Last checked: 2026-11-04 · 151 models_
 | allenai | [scibert_scivocab_uncased](https://huggingface.co/allenai/scibert_scivocab_uncased) | not set | none | - |
 | allenai | [specter2_base](https://huggingface.co/allenai/specter2_base) | apache-2.0 | none | - |
 | baidu | [ERNIE-4.5-21B-A3B-Thinking](https://huggingface.co/baidu/ERNIE-4.5-21B-A3B-Thinking) | apache-2.0 | [LICENSE](data/licenses/baidu/ERNIE-4.5-21B-A3B-Thinking.txt) | - |
+| baidu | [ERNIE-5.5-Flash-Base](https://huggingface.co/baidu/ERNIE-5.5-Flash-Base) | other (ernie-5.5-flash-base-model-license-v1.0) | [LICENSE](data/licenses/baidu/ERNIE-5.5-Flash-Base.txt) | - |
+| baidu | [ERNIE-5.5-Flash-Base-BF16](https://huggingface.co/baidu/ERNIE-5.5-Flash-Base-BF16) | other (ernie-5.5-flash-base-model-license-v1.0) | [LICENSE](data/licenses/baidu/ERNIE-5.5-Flash-Base-BF16.txt) | - |
 | baidu | [ERNIE-Image-Aes](https://huggingface.co/baidu/ERNIE-Image-Aes) | apache-2.0 | none | - |
 | baidu | [NAVA](https://huggingface.co/baidu/NAVA) | apache-2.0 | [LICENSE](data/licenses/baidu/NAVA.txt) | - |
 | baidu | [Qianfan-OCR](https://huggingface.co/baidu/Qianfan-OCR) | apache-2.0 | [LICENSE](data/licenses/baidu/Qianfan-OCR.txt) | - |
@@ -68,6 +70,7 @@ _Last checked: 2026-11-04 · 151 models_
 | black-forest-labs | [FLUX.1-dev](https://huggingface.co/black-forest-labs/FLUX.1-dev) | other (flux-1-dev-non-commercial-license) | [LICENSE.md](data/licenses/black-forest-labs/FLUX.1-dev.txt) | - |
 | black-forest-labs | [FLUX.2-klein-4b-fp8](https://huggingface.co/black-forest-labs/FLUX.2-klein-4b-fp8) | apache-2.0 | [LICENSE.md](data/licenses/black-forest-labs/FLUX.2-klein-4b-fp8.txt) | - |
 | black-forest-labs | [FLUX.2-klein-base-4B](https://huggingface.co/black-forest-labs/FLUX.2-klein-base-4B) | apache-2.0 | [LICENSE.md](data/licenses/black-forest-labs/FLUX.2-klein-base-4B.txt) | - |
+| ByteDance-Seed | [Cross-Layer-TopK-CLT](https://huggingface.co/ByteDance-Seed/Cross-Layer-TopK-CLT) | apache-2.0 | [LICENSE](data/licenses/ByteDance-Seed/Cross-Layer-TopK-CLT.txt) | - |
 | ByteDance-Seed | [GenFirst](https://huggingface.co/ByteDance-Seed/GenFirst) | cc-by-nc-4.0 | [LICENSE](data/licenses/ByteDance-Seed/GenFirst.txt) | - |
 | ByteDance-Seed | [PAR](https://huggingface.co/ByteDance-Seed/PAR) | apache-2.0 | none | - |
 | ByteDance-Seed | [Seed-OSS-36B-Instruct](https://huggingface.co/ByteDance-Seed/Seed-OSS-36B-Instruct) | apache-2.0 | [LICENSE.txt](data/licenses/ByteDance-Seed/Seed-OSS-36B-Instruct.txt) | - |
@@ -148,6 +151,7 @@ _Last checked: 2026-11-04 · 151 models_
 | nvidia | [DeepSeek-V4.1-Flash-1017-NVFP4](https://huggingface.co/nvidia/DeepSeek-V4.1-Flash-1017-NVFP4) | mit | [LICENSE](data/licenses/nvidia/DeepSeek-V4.1-Flash-1017-NVFP4.txt) | - |
 | nvidia | [InternVideo2-CLIP-anomaly-detection](https://huggingface.co/nvidia/InternVideo2-CLIP-anomaly-detection) | other (nvidia-internal-scientific-research-and-development-model-license) | none | - |
 | nvidia | [Metatron-v1](https://huggingface.co/nvidia/Metatron-v1) | other (nvidia-open-model-license) | [LICENSE.pdf](data/licenses/nvidia/Metatron-v1.txt) | - |
+| nvidia | [MetricTrail](https://huggingface.co/nvidia/MetricTrail) | other (nvidia-open-model-license) | none | - |
 | nvidia | [MotionBricks](https://huggingface.co/nvidia/MotionBricks) | not set | none | - |
 | nvidia | [NVIDIA-Nemotron-3-Nano-30B-A3B-BF16](https://huggingface.co/nvidia/NVIDIA-Nemotron-3-Nano-30B-A3B-BF16) | other (nvidia-nemotron-open-model-license) | none | - |
 | nvidia | [NVIDIA-Nemotron-3-Nano-4B-BF16](https://huggingface.co/nvidia/NVIDIA-Nemotron-3-Nano-4B-BF16) | other (nvidia-nemotron-open-model-license) | LICENSE | - |
@@ -168,6 +172,7 @@ _Last checked: 2026-11-04 · 151 models_
 | Qwen | [Qwen3-14B](https://huggingface.co/Qwen/Qwen3-14B) | apache-2.0 | [LICENSE](data/licenses/Qwen/Qwen3-14B.txt) | - |
 | Qwen | [Qwen3-4B](https://huggingface.co/Qwen/Qwen3-4B) | apache-2.0 | [LICENSE](data/licenses/Qwen/Qwen3-4B.txt) | - |
 | Qwen | [Qwen3-Embedding-0.6B](https://huggingface.co/Qwen/Qwen3-Embedding-0.6B) | apache-2.0 | none | - |
+| Qwen | [Qwen3.8-27B](https://huggingface.co/Qwen/Qwen3.8-27B) | apache-2.0 | [LICENSE](data/licenses/Qwen/Qwen3.8-27B.txt) | - |
 | stabilityai | [SAME-L](https://huggingface.co/stabilityai/SAME-L) | other (stable-audio-community) | [LICENSE.md](data/licenses/stabilityai/SAME-L.txt) | - |
 | stabilityai | [sd-turbo](https://huggingface.co/stabilityai/sd-turbo) | not set | [LICENSE.md](data/licenses/stabilityai/sd-turbo.txt) | - |
 | stabilityai | [sd-vae-ft-mse](https://huggingface.co/stabilityai/sd-vae-ft-mse) | mit | none | - |
