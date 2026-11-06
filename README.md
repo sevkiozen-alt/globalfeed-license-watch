@@ -43,13 +43,16 @@ Python 3.10 or newer, no dependencies. Set `HF_TOKEN` to also read license files
 ## Current licenses
 
 <!-- table:start -->
-_Last checked: 2026-11-05 · 156 models_
+_Last checked: 2026-11-06 · 162 models_
 
 | Organisation | Model | License | License file | Last change |
 |---|---|---|---|---|
 | allenai | [AstaBrief_8B_SFT](https://huggingface.co/allenai/AstaBrief_8B_SFT) | apache-2.0 | none | - |
 | allenai | [HiRO-ACEv2](https://huggingface.co/allenai/HiRO-ACEv2) | apache-2.0 | none | - |
 | allenai | [longformer-base-4096](https://huggingface.co/allenai/longformer-base-4096) | apache-2.0 | none | - |
+| allenai | [maniflow-tb](https://huggingface.co/allenai/maniflow-tb) | apache-2.0 | [LICENSE](data/licenses/allenai/maniflow-tb.txt) | - |
+| allenai | [Molmo2-4B-tb](https://huggingface.co/allenai/Molmo2-4B-tb) | apache-2.0 | none | - |
+| allenai | [Olmo-3-7B-Instruct](https://huggingface.co/allenai/Olmo-3-7B-Instruct) | apache-2.0 | none | - |
 | allenai | [olmOCR-7B-0825-FP8](https://huggingface.co/allenai/olmOCR-7B-0825-FP8) | apache-2.0 | none | - |
 | allenai | [OlmoEarth-v1_2-FT-LFMC-Base](https://huggingface.co/allenai/OlmoEarth-v1_2-FT-LFMC-Base) | other (olmoearth-artifact-license) | [LICENSE.txt](data/licenses/allenai/OlmoEarth-v1_2-FT-LFMC-Base.txt) | - |
 | allenai | [OlmoEarth-v1_3-Base](https://huggingface.co/allenai/OlmoEarth-v1_3-Base) | other | [LICENSE.txt](data/licenses/allenai/OlmoEarth-v1_3-Base.txt) | - |
@@ -70,9 +73,11 @@ _Last checked: 2026-11-05 · 156 models_
 | black-forest-labs | [FLUX.1-dev](https://huggingface.co/black-forest-labs/FLUX.1-dev) | other (flux-1-dev-non-commercial-license) | [LICENSE.md](data/licenses/black-forest-labs/FLUX.1-dev.txt) | - |
 | black-forest-labs | [FLUX.2-klein-4b-fp8](https://huggingface.co/black-forest-labs/FLUX.2-klein-4b-fp8) | apache-2.0 | [LICENSE.md](data/licenses/black-forest-labs/FLUX.2-klein-4b-fp8.txt) | - |
 | black-forest-labs | [FLUX.2-klein-base-4B](https://huggingface.co/black-forest-labs/FLUX.2-klein-base-4B) | apache-2.0 | [LICENSE.md](data/licenses/black-forest-labs/FLUX.2-klein-base-4B.txt) | - |
+| ByteDance-Seed | [Cola2](https://huggingface.co/ByteDance-Seed/Cola2) | not set | none | - |
 | ByteDance-Seed | [Cross-Layer-TopK-CLT](https://huggingface.co/ByteDance-Seed/Cross-Layer-TopK-CLT) | apache-2.0 | [LICENSE](data/licenses/ByteDance-Seed/Cross-Layer-TopK-CLT.txt) | - |
 | ByteDance-Seed | [GenFirst](https://huggingface.co/ByteDance-Seed/GenFirst) | cc-by-nc-4.0 | [LICENSE](data/licenses/ByteDance-Seed/GenFirst.txt) | - |
 | ByteDance-Seed | [PAR](https://huggingface.co/ByteDance-Seed/PAR) | apache-2.0 | none | - |
+| ByteDance-Seed | [Qwen3-30B-A3B-MoE-SAE](https://huggingface.co/ByteDance-Seed/Qwen3-30B-A3B-MoE-SAE) | apache-2.0 | [LICENSE](data/licenses/ByteDance-Seed/Qwen3-30B-A3B-MoE-SAE.txt) | - |
 | ByteDance-Seed | [Seed-OSS-36B-Instruct](https://huggingface.co/ByteDance-Seed/Seed-OSS-36B-Instruct) | apache-2.0 | [LICENSE.txt](data/licenses/ByteDance-Seed/Seed-OSS-36B-Instruct.txt) | - |
 | ByteDance-Seed | [SeedVR2-3B](https://huggingface.co/ByteDance-Seed/SeedVR2-3B) | apache-2.0 | none | - |
 | ByteDance-Seed | [SeedVR2-7B](https://huggingface.co/ByteDance-Seed/SeedVR2-7B) | apache-2.0 | none | - |
@@ -149,6 +154,7 @@ _Last checked: 2026-11-05 · 156 models_
 | moonshotai | [Kimi-K3.1-Pro](https://huggingface.co/moonshotai/Kimi-K3.1-Pro) | other (kimi-k3.1-pro) | [LICENSE](data/licenses/moonshotai/Kimi-K3.1-Pro.txt) | - |
 | nvidia | [bigvgan_v2_22khz_80band_256x](https://huggingface.co/nvidia/bigvgan_v2_22khz_80band_256x) | mit | [LICENSE](data/licenses/nvidia/bigvgan_v2_22khz_80band_256x.txt) | - |
 | nvidia | [DeepSeek-V4.1-Flash-1017-NVFP4](https://huggingface.co/nvidia/DeepSeek-V4.1-Flash-1017-NVFP4) | mit | [LICENSE](data/licenses/nvidia/DeepSeek-V4.1-Flash-1017-NVFP4.txt) | - |
+| nvidia | [Gemma-4-26B-A4B-NVFP4](https://huggingface.co/nvidia/Gemma-4-26B-A4B-NVFP4) | apache-2.0 (apache-license-2.0) | none | - |
 | nvidia | [InternVideo2-CLIP-anomaly-detection](https://huggingface.co/nvidia/InternVideo2-CLIP-anomaly-detection) | other (nvidia-internal-scientific-research-and-development-model-license) | none | - |
 | nvidia | [Metatron-v1](https://huggingface.co/nvidia/Metatron-v1) | other (nvidia-open-model-license) | [LICENSE.pdf](data/licenses/nvidia/Metatron-v1.txt) | - |
 | nvidia | [MetricTrail](https://huggingface.co/nvidia/MetricTrail) | other (nvidia-open-model-license) | none | - |

@@ -1,4 +1,14 @@
 {
+ "ByteDance-Seed/Cola2": {
+  "changed": null,
+  "created": "2026-11-06",
+  "first_seen": "2026-11-06",
+  "gated": false,
+  "license": null,
+  "license_file": null,
+  "license_name": null,
+  "license_sha256": null
+ },
  "ByteDance-Seed/Cross-Layer-TopK-CLT": {
   "changed": null,
   "created": "2026-11-05",
@@ -28,6 +38,16 @@
   "license_file": null,
   "license_name": null,
   "license_sha256": null
+ },
+ "ByteDance-Seed/Qwen3-30B-A3B-MoE-SAE": {
+  "changed": null,
+  "created": "2026-11-05",
+  "first_seen": "2026-11-06",
+  "gated": false,
+  "license": "apache-2.0",
+  "license_file": "LICENSE",
+  "license_name": null,
+  "license_sha256": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30"
  },
  "ByteDance-Seed/Seed-OSS-36B-Instruct": {
   "changed": null,
@@ -349,6 +369,26 @@
   "license_name": null,
   "license_sha256": null
  },
+ "allenai/Molmo2-4B-tb": {
+  "changed": null,
+  "created": "2026-11-05",
+  "first_seen": "2026-11-06",
+  "gated": false,
+  "license": "apache-2.0",
+  "license_file": null,
+  "license_name": null,
+  "license_sha256": null
+ },
+ "allenai/Olmo-3-7B-Instruct": {
+  "changed": null,
+  "created": "2025-11-19",
+  "first_seen": "2026-11-06",
+  "gated": false,
+  "license": "apache-2.0",
+  "license_file": null,
+  "license_name": null,
+  "license_sha256": null
+ },
  "allenai/OlmoEarth-v1_2-FT-LFMC-Base": {
   "changed": null,
   "created": "2026-10-23",
@@ -378,6 +418,16 @@
   "license_file": null,
   "license_name": null,
   "license_sha256": null
+ },
+ "allenai/maniflow-tb": {
+  "changed": null,
+  "created": "2026-11-05",
+  "first_seen": "2026-11-06",
+  "gated": false,
+  "license": "apache-2.0",
+  "license_file": "LICENSE",
+  "license_name": null,
+  "license_sha256": "c95bae1d1ce0235ecccd3560b772ec1efb97f348a79f0fbe0a634f0c2ccefe2c"
  },
  "allenai/olmOCR-7B-0825-FP8": {
   "changed": null,
@@ -1098,6 +1148,16 @@
   "license_file": "LICENSE",
   "license_name": null,
   "license_sha256": "f2c6c602815669d292889e5be8c802f2ed950653b77999b1584e8e6aed25d040"
+ },
+ "nvidia/Gemma-4-26B-A4B-NVFP4": {
+  "changed": null,
+  "created": "2026-05-01",
+  "first_seen": "2026-11-06",
+  "gated": false,
+  "license": "apache-2.0",
+  "license_file": null,
+  "license_name": "apache-license-2.0",
+  "license_sha256": null
  },
  "nvidia/InternVideo2-CLIP-anomaly-detection": {
   "changed": null,
