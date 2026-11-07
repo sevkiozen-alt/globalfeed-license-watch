@@ -43,7 +43,7 @@ Python 3.10 or newer, no dependencies. Set `HF_TOKEN` to also read license files
 ## Current licenses
 
 <!-- table:start -->
-_Last checked: 2026-11-06 · 162 models_
+_Last checked: 2026-11-07 · 163 models_
 
 | Organisation | Model | License | License file | Last change |
 |---|---|---|---|---|
@@ -115,6 +115,7 @@ _Last checked: 2026-11-06 · 162 models_
 | LiquidAI | [LFM2.5-Audio-1.5B-JP-GGUF](https://huggingface.co/LiquidAI/LFM2.5-Audio-1.5B-JP-GGUF) | other (lfm1.0) | [LICENSE](data/licenses/LiquidAI/LFM2.5-Audio-1.5B-JP-GGUF.txt) | - |
 | LiquidAI | [LFM3-1.7B-MLX-5bit](https://huggingface.co/LiquidAI/LFM3-1.7B-MLX-5bit) | other (lfm1.0) | [LICENSE](data/licenses/LiquidAI/LFM3-1.7B-MLX-5bit.txt) | - |
 | LiquidAI | [LFM3-Audio-2B-GGUF](https://huggingface.co/LiquidAI/LFM3-Audio-2B-GGUF) | other (lfm1.0) | [LICENSE](data/licenses/LiquidAI/LFM3-Audio-2B-GGUF.txt) | - |
+| LiquidAI | [LFM3-Omni-2B-GGUF](https://huggingface.co/LiquidAI/LFM3-Omni-2B-GGUF) | other (lfm1.0) | [LICENSE](data/licenses/LiquidAI/LFM3-Omni-2B-GGUF.txt) | - |
 | meta-llama | [Llama-3.1-8B-Instruct](https://huggingface.co/meta-llama/Llama-3.1-8B-Instruct) | llama3.1 | [LICENSE](data/licenses/meta-llama/Llama-3.1-8B-Instruct.txt) | - |
 | meta-llama | [Llama-3.2-1B-Instruct](https://huggingface.co/meta-llama/Llama-3.2-1B-Instruct) | llama3.2 | [LICENSE.txt](data/licenses/meta-llama/Llama-3.2-1B-Instruct.txt) | - |
 | meta-llama | [Llama-3.2-3B-Instruct](https://huggingface.co/meta-llama/Llama-3.2-3B-Instruct) | llama3.2 | [LICENSE.txt](data/licenses/meta-llama/Llama-3.2-3B-Instruct.txt) | - |
