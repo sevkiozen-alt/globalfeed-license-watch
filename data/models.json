@@ -1549,6 +1549,16 @@
   "license_name": null,
   "license_sha256": "76a14d21e741dbbf1572e9c0e6bb809a9bd76f5b4da64a0b89e7331cc77ea84a"
  },
+ "tencent/Qwen3.8-27B-DSpine-b16": {
+  "changed": null,
+  "created": "2026-11-07",
+  "first_seen": "2026-11-08",
+  "gated": false,
+  "license": "apache-2.0",
+  "license_file": "LICENSE",
+  "license_name": null,
+  "license_sha256": "bbedc3fda3305820b977265f01b8619d87570a6739de3a5582c3464840f1e57a"
+ },
  "tencent/WeVisOne-VL-2B": {
   "changed": null,
   "created": "2026-10-22",

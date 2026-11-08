@@ -43,7 +43,7 @@ Python 3.10 or newer, no dependencies. Set `HF_TOKEN` to also read license files
 ## Current licenses
 
 <!-- table:start -->
-_Last checked: 2026-11-07 · 163 models_
+_Last checked: 2026-11-08 · 164 models_
 
 | Organisation | Model | License | License file | Last change |
 |---|---|---|---|---|
@@ -202,6 +202,7 @@ _Last checked: 2026-11-07 · 163 models_
 | tencent | [Hy-Nomas-Diffusers](https://huggingface.co/tencent/Hy-Nomas-Diffusers) | apache-2.0 | [LICENSE](data/licenses/tencent/Hy-Nomas-Diffusers.txt) | - |
 | tencent | [Hy-SimulMT-30B-A3B-Interleave-GGUF](https://huggingface.co/tencent/Hy-SimulMT-30B-A3B-Interleave-GGUF) | not set | [LICENSE.txt](data/licenses/tencent/Hy-SimulMT-30B-A3B-Interleave-GGUF.txt) | - |
 | tencent | [Hy3](https://huggingface.co/tencent/Hy3) | apache-2.0 | [LICENSE](data/licenses/tencent/Hy3.txt) | - |
+| tencent | [Qwen3.8-27B-DSpine-b16](https://huggingface.co/tencent/Qwen3.8-27B-DSpine-b16) | apache-2.0 | [LICENSE](data/licenses/tencent/Qwen3.8-27B-DSpine-b16.txt) | - |
 | tencent | [WeVisOne-VL-2B](https://huggingface.co/tencent/WeVisOne-VL-2B) | apache-2.0 | [LICENSE](data/licenses/tencent/WeVisOne-VL-2B.txt) | - |
 | tencent | [WeVisOne-VL-4B](https://huggingface.co/tencent/WeVisOne-VL-4B) | apache-2.0 | [LICENSE](data/licenses/tencent/WeVisOne-VL-4B.txt) | - |
 | zai-org | [GLM-5](https://huggingface.co/zai-org/GLM-5) | mit | none | - |
