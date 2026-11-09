@@ -149,6 +149,16 @@
   "license_name": "lfm1.0",
   "license_sha256": "c138fe99cb339429d6daba8aa44c3dc5996e1a8caf55dec76170f8d2d626ddf7"
  },
+ "LiquidAI/LFM3-1.7B-GGUF": {
+  "changed": null,
+  "created": "2026-10-24",
+  "first_seen": "2026-11-09",
+  "gated": false,
+  "license": "other",
+  "license_file": "LICENSE",
+  "license_name": "lfm1.0",
+  "license_sha256": "4d28ca14dedc0b3d0fcc2b3339f0e79931faa33874f3d24f522183a8fc70068c"
+ },
  "LiquidAI/LFM3-1.7B-MLX-5bit": {
   "changed": null,
   "created": "2026-10-27",
@@ -723,6 +733,16 @@
   "changed": null,
   "created": "2026-03-11",
   "first_seen": "2026-11-04",
+  "gated": false,
+  "license": "apache-2.0",
+  "license_file": null,
+  "license_name": null,
+  "license_sha256": null
+ },
+ "google/gemma-4-E4B-it": {
+  "changed": null,
+  "created": "2026-03-02",
+  "first_seen": "2026-11-09",
   "gated": false,
   "license": "apache-2.0",
   "license_file": null,
@@ -1360,14 +1380,14 @@
   "license_sha256": null
  },
  "stabilityai/sdxl-base-amdnpu-medusa": {
-  "changed": null,
+  "changed": "2026-11-09",
   "created": "2026-10-26",
   "first_seen": "2026-11-04",
   "gated": false,
-  "license": null,
-  "license_file": null,
+  "license": "openrail++",
+  "license_file": "LICENSE",
   "license_name": null,
-  "license_sha256": null
+  "license_sha256": "9bf87e91dee64f45a48255698a85ad6828875f90bbf485b47ac6bb181f16227d"
  },
  "stabilityai/sdxl-turbo": {
   "changed": null,

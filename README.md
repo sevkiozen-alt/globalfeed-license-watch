@@ -43,7 +43,7 @@ Python 3.10 or newer, no dependencies. Set `HF_TOKEN` to also read license files
 ## Current licenses
 
 <!-- table:start -->
-_Last checked: 2026-11-08 · 164 models_
+_Last checked: 2026-11-09 · 166 models_
 
 | Organisation | Model | License | License file | Last change |
 |---|---|---|---|---|
@@ -95,6 +95,7 @@ _Last checked: 2026-11-08 · 164 models_
 | google | [embeddinggemma-2](https://huggingface.co/google/embeddinggemma-2) | apache-2.0 | none | - |
 | google | [gemma-4-26B-A4B-it](https://huggingface.co/google/gemma-4-26B-A4B-it) | apache-2.0 | none | - |
 | google | [gemma-4-31B-it](https://huggingface.co/google/gemma-4-31B-it) | apache-2.0 | none | - |
+| google | [gemma-4-E4B-it](https://huggingface.co/google/gemma-4-E4B-it) | apache-2.0 | none | - |
 | google | [gnm-v3](https://huggingface.co/google/gnm-v3) | apache-2.0 | none | - |
 | google | [timesfm-3.0-pytorch](https://huggingface.co/google/timesfm-3.0-pytorch) | other (timesfm-non-commercial-license-v1.0) | [LICENSE](data/licenses/google/timesfm-3.0-pytorch.txt) | - |
 | google | [tipsv1-g14-lowres](https://huggingface.co/google/tipsv1-g14-lowres) | apache-2.0 | none | - |
@@ -113,6 +114,7 @@ _Last checked: 2026-11-08 · 164 models_
 | LiquidAI | [LFM2.5-230M-Base](https://huggingface.co/LiquidAI/LFM2.5-230M-Base) | other (lfm1.0) | [LICENSE](data/licenses/LiquidAI/LFM2.5-230M-Base.txt) | - |
 | LiquidAI | [LFM2.5-Audio-1.5B-GGUF](https://huggingface.co/LiquidAI/LFM2.5-Audio-1.5B-GGUF) | other (lfm1.0) | [LICENSE](data/licenses/LiquidAI/LFM2.5-Audio-1.5B-GGUF.txt) | - |
 | LiquidAI | [LFM2.5-Audio-1.5B-JP-GGUF](https://huggingface.co/LiquidAI/LFM2.5-Audio-1.5B-JP-GGUF) | other (lfm1.0) | [LICENSE](data/licenses/LiquidAI/LFM2.5-Audio-1.5B-JP-GGUF.txt) | - |
+| LiquidAI | [LFM3-1.7B-GGUF](https://huggingface.co/LiquidAI/LFM3-1.7B-GGUF) | other (lfm1.0) | [LICENSE](data/licenses/LiquidAI/LFM3-1.7B-GGUF.txt) | - |
 | LiquidAI | [LFM3-1.7B-MLX-5bit](https://huggingface.co/LiquidAI/LFM3-1.7B-MLX-5bit) | other (lfm1.0) | [LICENSE](data/licenses/LiquidAI/LFM3-1.7B-MLX-5bit.txt) | - |
 | LiquidAI | [LFM3-Audio-2B-GGUF](https://huggingface.co/LiquidAI/LFM3-Audio-2B-GGUF) | other (lfm1.0) | [LICENSE](data/licenses/LiquidAI/LFM3-Audio-2B-GGUF.txt) | - |
 | LiquidAI | [LFM3-Omni-2B-GGUF](https://huggingface.co/LiquidAI/LFM3-Omni-2B-GGUF) | other (lfm1.0) | [LICENSE](data/licenses/LiquidAI/LFM3-Omni-2B-GGUF.txt) | - |
@@ -183,7 +185,7 @@ _Last checked: 2026-11-08 · 164 models_
 | stabilityai | [SAME-L](https://huggingface.co/stabilityai/SAME-L) | other (stable-audio-community) | [LICENSE.md](data/licenses/stabilityai/SAME-L.txt) | - |
 | stabilityai | [sd-turbo](https://huggingface.co/stabilityai/sd-turbo) | not set | [LICENSE.md](data/licenses/stabilityai/sd-turbo.txt) | - |
 | stabilityai | [sd-vae-ft-mse](https://huggingface.co/stabilityai/sd-vae-ft-mse) | mit | none | - |
-| stabilityai | [sdxl-base-amdnpu-medusa](https://huggingface.co/stabilityai/sdxl-base-amdnpu-medusa) | not set | none | - |
+| stabilityai | [sdxl-base-amdnpu-medusa](https://huggingface.co/stabilityai/sdxl-base-amdnpu-medusa) | openrail++ | [LICENSE](data/licenses/stabilityai/sdxl-base-amdnpu-medusa.txt) | 2026-11-09 |
 | stabilityai | [sdxl-turbo](https://huggingface.co/stabilityai/sdxl-turbo) | other (sai-nc-community) | [LICENSE.md](data/licenses/stabilityai/sdxl-turbo.txt) | - |
 | stabilityai | [stable-audio-3-optimized](https://huggingface.co/stabilityai/stable-audio-3-optimized) | other (stable-audio-community) | [LICENSE.md](data/licenses/stabilityai/stable-audio-3-optimized.txt) | - |
 | stabilityai | [stable-diffusion-3.5-medium-amdnpu-medusa](https://huggingface.co/stabilityai/stable-diffusion-3.5-medium-amdnpu-medusa) | other (stabilityai-ai-community) | none | - |
