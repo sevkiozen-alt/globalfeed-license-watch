@@ -43,7 +43,7 @@ Python 3.10 or newer, no dependencies. Set `HF_TOKEN` to also read license files
 ## Current licenses
 
 <!-- table:start -->
-_Last checked: 2026-11-09 · 166 models_
+_Last checked: 2026-11-10 · 166 models_
 
 | Organisation | Model | License | License file | Last change |
 |---|---|---|---|---|
