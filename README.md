@@ -43,7 +43,7 @@ Python 3.10 or newer, no dependencies. Set `HF_TOKEN` to also read license files
 ## Current licenses
 
 <!-- table:start -->
-_Last checked: 2026-11-10 · 166 models_
+_Last checked: 2026-11-11 · 168 models_
 
 | Organisation | Model | License | License file | Last change |
 |---|---|---|---|---|
@@ -135,6 +135,8 @@ _Last checked: 2026-11-10 · 166 models_
 | microsoft | [TRELLIS.2-4B](https://huggingface.co/microsoft/TRELLIS.2-4B) | mit | none | - |
 | microsoft | [UserRepGen-4B](https://huggingface.co/microsoft/UserRepGen-4B) | mit | [LICENSE.Qwen](data/licenses/microsoft/UserRepGen-4B.txt) | - |
 | MiniMaxAI | [MiniMax-H3](https://huggingface.co/MiniMaxAI/MiniMax-H3) | other (minimax-h3-community-license-agreement) | [LICENSE](data/licenses/MiniMaxAI/MiniMax-H3.txt) | - |
+| MiniMaxAI | [MiniMax-H3-Image](https://huggingface.co/MiniMaxAI/MiniMax-H3-Image) | other (minimax-h3-image-community-license-agreement) | [LICENSE](data/licenses/MiniMaxAI/MiniMax-H3-Image.txt) | - |
+| MiniMaxAI | [MiniMax-H3-Image-PE](https://huggingface.co/MiniMaxAI/MiniMax-H3-Image-PE) | other (minimax-h3-image-community-license-agreement) | none | - |
 | MiniMaxAI | [MiniMax-M2.5](https://huggingface.co/MiniMaxAI/MiniMax-M2.5) | other (modified-mit) | [LICENSE-MODEL](data/licenses/MiniMaxAI/MiniMax-M2.5.txt) | - |
 | MiniMaxAI | [MiniMax-M2.7](https://huggingface.co/MiniMaxAI/MiniMax-M2.7) | other (other) | [LICENSE](data/licenses/MiniMaxAI/MiniMax-M2.7.txt) | - |
 | MiniMaxAI | [MiniMax-M3](https://huggingface.co/MiniMaxAI/MiniMax-M3) | other (minimax-community) | [LICENSE](data/licenses/MiniMaxAI/MiniMax-M3.txt) | - |

@@ -219,6 +219,26 @@
   "license_name": "minimax-h3-community-license-agreement",
   "license_sha256": "59b99642b95ea21630e311198ddbfffbfe05aadba0c2f5d884cbdf4efcc90f44"
  },
+ "MiniMaxAI/MiniMax-H3-Image": {
+  "changed": null,
+  "created": "2026-11-03",
+  "first_seen": "2026-11-11",
+  "gated": false,
+  "license": "other",
+  "license_file": "LICENSE",
+  "license_name": "minimax-h3-image-community-license-agreement",
+  "license_sha256": "0ec3bb5e6d9e885fa2aaf15e84689e50fd51f42b53fa24d3a64ed9d8c76d423b"
+ },
+ "MiniMaxAI/MiniMax-H3-Image-PE": {
+  "changed": null,
+  "created": "2026-11-08",
+  "first_seen": "2026-11-11",
+  "gated": false,
+  "license": "other",
+  "license_file": null,
+  "license_name": "minimax-h3-image-community-license-agreement",
+  "license_sha256": null
+ },
  "MiniMaxAI/MiniMax-M2.5": {
   "changed": null,
   "created": "2026-02-12",
