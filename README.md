@@ -43,7 +43,7 @@ Python 3.10 or newer, no dependencies. Set `HF_TOKEN` to also read license files
 ## Current licenses
 
 <!-- table:start -->
-_Last checked: 2026-11-11 · 168 models_
+_Last checked: 2026-11-12 · 170 models_
 
 | Organisation | Model | License | License file | Last change |
 |---|---|---|---|---|
@@ -161,6 +161,7 @@ _Last checked: 2026-11-11 · 168 models_
 | nvidia | [DeepSeek-V4.1-Flash-1017-NVFP4](https://huggingface.co/nvidia/DeepSeek-V4.1-Flash-1017-NVFP4) | mit | [LICENSE](data/licenses/nvidia/DeepSeek-V4.1-Flash-1017-NVFP4.txt) | - |
 | nvidia | [Gemma-4-26B-A4B-NVFP4](https://huggingface.co/nvidia/Gemma-4-26B-A4B-NVFP4) | apache-2.0 (apache-license-2.0) | none | - |
 | nvidia | [InternVideo2-CLIP-anomaly-detection](https://huggingface.co/nvidia/InternVideo2-CLIP-anomaly-detection) | other (nvidia-internal-scientific-research-and-development-model-license) | none | - |
+| nvidia | [Kimi-K3.1-Pro-NVFP4](https://huggingface.co/nvidia/Kimi-K3.1-Pro-NVFP4) | other (nvidia-open-model-agreement) | [LICENSE](data/licenses/nvidia/Kimi-K3.1-Pro-NVFP4.txt) | - |
 | nvidia | [Metatron-v1](https://huggingface.co/nvidia/Metatron-v1) | other (nvidia-open-model-license) | [LICENSE.pdf](data/licenses/nvidia/Metatron-v1.txt) | - |
 | nvidia | [MetricTrail](https://huggingface.co/nvidia/MetricTrail) | other (nvidia-open-model-license) | none | - |
 | nvidia | [MotionBricks](https://huggingface.co/nvidia/MotionBricks) | not set | none | - |
@@ -174,6 +175,7 @@ _Last checked: 2026-11-11 · 168 models_
 | openai | [gpt-oss-safeguard-120b](https://huggingface.co/openai/gpt-oss-safeguard-120b) | apache-2.0 | [LICENSE](data/licenses/openai/gpt-oss-safeguard-120b.txt) | - |
 | openai | [gpt-oss-safeguard-20b](https://huggingface.co/openai/gpt-oss-safeguard-20b) | apache-2.0 | [LICENSE](data/licenses/openai/gpt-oss-safeguard-20b.txt) | - |
 | openai | [privacy-filter](https://huggingface.co/openai/privacy-filter) | apache-2.0 | none | - |
+| openai | [whisper-base](https://huggingface.co/openai/whisper-base) | apache-2.0 | none | - |
 | openai | [whisper-large-v3-turbo](https://huggingface.co/openai/whisper-large-v3-turbo) | mit | none | - |
 | Qwen | [Qwen-Image-2.1](https://huggingface.co/Qwen/Qwen-Image-2.1) | other (qwen-research) | [LICENSE](data/licenses/Qwen/Qwen-Image-2.1.txt) | - |
 | Qwen | [Qwen-Image-2.1-PE-I2I](https://huggingface.co/Qwen/Qwen-Image-2.1-PE-I2I) | other (qwen-research) | [LICENSE](data/licenses/Qwen/Qwen-Image-2.1-PE-I2I.txt) | - |
