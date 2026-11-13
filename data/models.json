@@ -379,6 +379,16 @@
   "license_name": null,
   "license_sha256": null
  },
+ "Qwen/Qwen3-VL-8B-Instruct": {
+  "changed": null,
+  "created": "2025-10-11",
+  "first_seen": "2026-11-13",
+  "gated": false,
+  "license": "apache-2.0",
+  "license_file": null,
+  "license_name": null,
+  "license_sha256": null
+ },
  "Qwen/Qwen3.8-27B": {
   "changed": null,
   "created": "2026-08-05",
