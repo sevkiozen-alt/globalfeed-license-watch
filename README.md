@@ -43,7 +43,7 @@ Python 3.10 or newer, no dependencies. Set `HF_TOKEN` to also read license files
 ## Current licenses
 
 <!-- table:start -->
-_Last checked: 2026-11-13 · 171 models_
+_Last checked: 2026-11-14 · 173 models_
 
 | Organisation | Model | License | License file | Last change |
 |---|---|---|---|---|
@@ -53,6 +53,7 @@ _Last checked: 2026-11-13 · 171 models_
 | allenai | [maniflow-tb](https://huggingface.co/allenai/maniflow-tb) | apache-2.0 | [LICENSE](data/licenses/allenai/maniflow-tb.txt) | - |
 | allenai | [Molmo2-4B-tb](https://huggingface.co/allenai/Molmo2-4B-tb) | apache-2.0 | none | - |
 | allenai | [Olmo-3-7B-Instruct](https://huggingface.co/allenai/Olmo-3-7B-Instruct) | apache-2.0 | none | - |
+| allenai | [olmOCR-2-7B-1025-FP8](https://huggingface.co/allenai/olmOCR-2-7B-1025-FP8) | apache-2.0 | none | - |
 | allenai | [olmOCR-7B-0825-FP8](https://huggingface.co/allenai/olmOCR-7B-0825-FP8) | apache-2.0 | none | - |
 | allenai | [OlmoEarth-v1_2-FT-LFMC-Base](https://huggingface.co/allenai/OlmoEarth-v1_2-FT-LFMC-Base) | other (olmoearth-artifact-license) | [LICENSE.txt](data/licenses/allenai/OlmoEarth-v1_2-FT-LFMC-Base.txt) | - |
 | allenai | [OlmoEarth-v1_3-Base](https://huggingface.co/allenai/OlmoEarth-v1_3-Base) | other | [LICENSE.txt](data/licenses/allenai/OlmoEarth-v1_3-Base.txt) | - |
@@ -158,6 +159,7 @@ _Last checked: 2026-11-13 · 171 models_
 | moonshotai | [Kimi-K3](https://huggingface.co/moonshotai/Kimi-K3) | other (kimi-k3) | [LICENSE](data/licenses/moonshotai/Kimi-K3.txt) | - |
 | moonshotai | [Kimi-K3.1-Pro](https://huggingface.co/moonshotai/Kimi-K3.1-Pro) | other (kimi-k3.1-pro) | [LICENSE](data/licenses/moonshotai/Kimi-K3.1-Pro.txt) | - |
 | nvidia | [bigvgan_v2_22khz_80band_256x](https://huggingface.co/nvidia/bigvgan_v2_22khz_80band_256x) | mit | [LICENSE](data/licenses/nvidia/bigvgan_v2_22khz_80band_256x.txt) | - |
+| nvidia | [Cosmos3-Nano](https://huggingface.co/nvidia/Cosmos3-Nano) | other (openmdw1.1-license) | none | - |
 | nvidia | [DeepSeek-V4.1-Flash-1017-NVFP4](https://huggingface.co/nvidia/DeepSeek-V4.1-Flash-1017-NVFP4) | mit | [LICENSE](data/licenses/nvidia/DeepSeek-V4.1-Flash-1017-NVFP4.txt) | - |
 | nvidia | [Gemma-4-26B-A4B-NVFP4](https://huggingface.co/nvidia/Gemma-4-26B-A4B-NVFP4) | apache-2.0 (apache-license-2.0) | none | - |
 | nvidia | [InternVideo2-CLIP-anomaly-detection](https://huggingface.co/nvidia/InternVideo2-CLIP-anomaly-detection) | other (nvidia-internal-scientific-research-and-development-model-license) | none | - |

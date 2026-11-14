@@ -479,6 +479,16 @@
   "license_name": null,
   "license_sha256": "c95bae1d1ce0235ecccd3560b772ec1efb97f348a79f0fbe0a634f0c2ccefe2c"
  },
+ "allenai/olmOCR-2-7B-1025-FP8": {
+  "changed": null,
+  "created": "2025-10-06",
+  "first_seen": "2026-11-14",
+  "gated": false,
+  "license": "apache-2.0",
+  "license_file": null,
+  "license_name": null,
+  "license_sha256": null
+ },
  "allenai/olmOCR-7B-0825-FP8": {
   "changed": null,
   "created": "2025-08-13",
@@ -1198,6 +1208,16 @@
   "license_file": "LICENSE",
   "license_name": "kimi-k3.1-pro",
   "license_sha256": "da05c356f773d22a0e1c6de390f280304d7cee6eb56fa161aa789d30dedba63b"
+ },
+ "nvidia/Cosmos3-Nano": {
+  "changed": null,
+  "created": "2026-03-10",
+  "first_seen": "2026-11-14",
+  "gated": false,
+  "license": "other",
+  "license_file": null,
+  "license_name": "openmdw1.1-license",
+  "license_sha256": null
  },
  "nvidia/DeepSeek-V4.1-Flash-1017-NVFP4": {
   "changed": null,
