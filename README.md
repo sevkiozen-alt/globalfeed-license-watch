@@ -43,7 +43,7 @@ Python 3.10 or newer, no dependencies. Set `HF_TOKEN` to also read license files
 ## Current licenses
 
 <!-- table:start -->
-_Last checked: 2026-11-14 · 173 models_
+_Last checked: 2026-11-15 · 174 models_
 
 | Organisation | Model | License | License file | Last change |
 |---|---|---|---|---|
@@ -59,6 +59,7 @@ _Last checked: 2026-11-14 · 173 models_
 | allenai | [OlmoEarth-v1_3-Base](https://huggingface.co/allenai/OlmoEarth-v1_3-Base) | other | [LICENSE.txt](data/licenses/allenai/OlmoEarth-v1_3-Base.txt) | - |
 | allenai | [scibert_scivocab_uncased](https://huggingface.co/allenai/scibert_scivocab_uncased) | not set | none | - |
 | allenai | [specter2_base](https://huggingface.co/allenai/specter2_base) | apache-2.0 | none | - |
+| allenai | [wildguard](https://huggingface.co/allenai/wildguard) | apache-2.0 | none | - |
 | baidu | [ERNIE-4.5-21B-A3B-Thinking](https://huggingface.co/baidu/ERNIE-4.5-21B-A3B-Thinking) | apache-2.0 | [LICENSE](data/licenses/baidu/ERNIE-4.5-21B-A3B-Thinking.txt) | - |
 | baidu | [ERNIE-5.5-Flash-Base](https://huggingface.co/baidu/ERNIE-5.5-Flash-Base) | other (ernie-5.5-flash-base-model-license-v1.0) | [LICENSE](data/licenses/baidu/ERNIE-5.5-Flash-Base.txt) | - |
 | baidu | [ERNIE-5.5-Flash-Base-BF16](https://huggingface.co/baidu/ERNIE-5.5-Flash-Base-BF16) | other (ernie-5.5-flash-base-model-license-v1.0) | [LICENSE](data/licenses/baidu/ERNIE-5.5-Flash-Base-BF16.txt) | - |

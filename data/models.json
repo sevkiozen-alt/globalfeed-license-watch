@@ -519,6 +519,16 @@
   "license_name": null,
   "license_sha256": null
  },
+ "allenai/wildguard": {
+  "changed": null,
+  "created": "2024-06-15",
+  "first_seen": "2026-11-15",
+  "gated": true,
+  "license": "apache-2.0",
+  "license_file": null,
+  "license_name": null,
+  "license_sha256": null
+ },
  "baidu/ERNIE-4.5-21B-A3B-Thinking": {
   "changed": null,
   "created": "2025-09-08",
