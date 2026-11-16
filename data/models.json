@@ -999,6 +999,16 @@
   "license_name": null,
   "license_sha256": "64e1b2889b7892e6bbe7a7ed5bfe6ff793c61f9d584345f8f41cf9f5cb30a369"
  },
+ "microsoft/BiomedNLP-BiomedBERT-base-uncased-abstract-fulltext": {
+  "changed": null,
+  "created": "2022-03-02",
+  "first_seen": "2026-11-16",
+  "gated": false,
+  "license": "mit",
+  "license_file": "LICENSE.md",
+  "license_name": null,
+  "license_sha256": "8542b3a65414366ae3228e8f1658e538ec95f9b8855599c9c6e36751d592be66"
+ },
  "microsoft/Florence-2-base": {
   "changed": null,
   "created": "2024-06-15",

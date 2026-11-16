@@ -43,7 +43,7 @@ Python 3.10 or newer, no dependencies. Set `HF_TOKEN` to also read license files
 ## Current licenses
 
 <!-- table:start -->
-_Last checked: 2026-11-15 · 174 models_
+_Last checked: 2026-11-16 · 175 models_
 
 | Organisation | Model | License | License file | Last change |
 |---|---|---|---|---|
@@ -128,6 +128,7 @@ _Last checked: 2026-11-15 · 174 models_
 | meta-llama | [Llama-Prompt-Guard-2-22M](https://huggingface.co/meta-llama/Llama-Prompt-Guard-2-22M) | other (llama4) | [LICENSE](data/licenses/meta-llama/Llama-Prompt-Guard-2-22M.txt) | - |
 | meta-llama | [Llama-Prompt-Guard-2-86M](https://huggingface.co/meta-llama/Llama-Prompt-Guard-2-86M) | other (llama4) | [LICENSE](data/licenses/meta-llama/Llama-Prompt-Guard-2-86M.txt) | - |
 | meta-llama | [Prompt-Guard-86M](https://huggingface.co/meta-llama/Prompt-Guard-86M) | llama3.1 | [LICENSE](data/licenses/meta-llama/Prompt-Guard-86M.txt) | - |
+| microsoft | [BiomedNLP-BiomedBERT-base-uncased-abstract-fulltext](https://huggingface.co/microsoft/BiomedNLP-BiomedBERT-base-uncased-abstract-fulltext) | mit | [LICENSE.md](data/licenses/microsoft/BiomedNLP-BiomedBERT-base-uncased-abstract-fulltext.txt) | - |
 | microsoft | [Florence-2-base](https://huggingface.co/microsoft/Florence-2-base) | mit | [LICENSE](data/licenses/microsoft/Florence-2-base.txt) | - |
 | microsoft | [Mage-VL-Cowork](https://huggingface.co/microsoft/Mage-VL-Cowork) | apache-2.0 | [LICENSE](data/licenses/microsoft/Mage-VL-Cowork.txt) | - |
 | microsoft | [mdeberta-v3-base](https://huggingface.co/microsoft/mdeberta-v3-base) | mit | none | - |
