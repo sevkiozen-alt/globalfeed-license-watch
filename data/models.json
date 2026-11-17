@@ -529,6 +529,16 @@
   "license_name": null,
   "license_sha256": null
  },
+ "baidu/ERNIE-4.5-21B-A3B-PT": {
+  "changed": null,
+  "created": "2025-06-28",
+  "first_seen": "2026-11-17",
+  "gated": false,
+  "license": "apache-2.0",
+  "license_file": "LICENSE",
+  "license_name": null,
+  "license_sha256": "5d7deeaff0d6f92ef5c74658a46e4750ccbcd0602efcdfd24cd7ec6ae7c822f9"
+ },
  "baidu/ERNIE-4.5-21B-A3B-Thinking": {
   "changed": null,
   "created": "2025-09-08",
@@ -688,6 +698,16 @@
   "license_file": "LICENSE",
   "license_name": null,
   "license_sha256": "f2c6c602815669d292889e5be8c802f2ed950653b77999b1584e8e6aed25d040"
+ },
+ "deepseek-ai/DeepSeek-R1": {
+  "changed": null,
+  "created": "2025-01-20",
+  "first_seen": "2026-11-17",
+  "gated": false,
+  "license": "mit",
+  "license_file": "LICENSE",
+  "license_name": null,
+  "license_sha256": "1c8f573e830ca9b3ebfeb7ace1823146e22b66f99ee223840e7637c9e745e1c7"
  },
  "deepseek-ai/DeepSeek-V3.2": {
   "changed": null,
@@ -1329,6 +1349,26 @@
   "license_name": "nvidia-nemotron-open-model-license",
   "license_sha256": null
  },
+ "nvidia/Nemotron-Labs-Sigma-distill-8B-nfe16": {
+  "changed": null,
+  "created": "2026-11-09",
+  "first_seen": "2026-11-17",
+  "gated": false,
+  "license": "other",
+  "license_file": null,
+  "license_name": "nvidia-nemotron-open-model-license",
+  "license_sha256": null
+ },
+ "nvidia/Nemotron-Labs-Sigma-distill-spec-3B": {
+  "changed": null,
+  "created": "2026-11-09",
+  "first_seen": "2026-11-17",
+  "gated": false,
+  "license": "other",
+  "license_file": null,
+  "license_name": "nvidia-nemotron-open-model-license",
+  "license_sha256": null
+ },
  "nvidia/Qwen3.6-35B-A3B-NVFP4": {
   "changed": null,
   "created": "2026-05-27",
@@ -1338,6 +1378,16 @@
   "license_file": null,
   "license_name": null,
   "license_sha256": null
+ },
+ "nvidia/Qwen3.8-Flash-Next-NVFP4-QAD": {
+  "changed": null,
+  "created": "2026-11-17",
+  "first_seen": "2026-11-17",
+  "gated": false,
+  "license": "other",
+  "license_file": "LICENSE",
+  "license_name": "nvidia-open-model-license",
+  "license_sha256": "a0dc422560841fd68e06d974907f8b4c709bca44a67daad2b528437bdf676c08"
  },
  "nvidia/bigvgan_v2_22khz_80band_256x": {
   "changed": null,

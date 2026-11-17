@@ -43,7 +43,7 @@ Python 3.10 or newer, no dependencies. Set `HF_TOKEN` to also read license files
 ## Current licenses
 
 <!-- table:start -->
-_Last checked: 2026-11-16 · 175 models_
+_Last checked: 2026-11-17 · 180 models_
 
 | Organisation | Model | License | License file | Last change |
 |---|---|---|---|---|
@@ -60,6 +60,7 @@ _Last checked: 2026-11-16 · 175 models_
 | allenai | [scibert_scivocab_uncased](https://huggingface.co/allenai/scibert_scivocab_uncased) | not set | none | - |
 | allenai | [specter2_base](https://huggingface.co/allenai/specter2_base) | apache-2.0 | none | - |
 | allenai | [wildguard](https://huggingface.co/allenai/wildguard) | apache-2.0 | none | - |
+| baidu | [ERNIE-4.5-21B-A3B-PT](https://huggingface.co/baidu/ERNIE-4.5-21B-A3B-PT) | apache-2.0 | [LICENSE](data/licenses/baidu/ERNIE-4.5-21B-A3B-PT.txt) | - |
 | baidu | [ERNIE-4.5-21B-A3B-Thinking](https://huggingface.co/baidu/ERNIE-4.5-21B-A3B-Thinking) | apache-2.0 | [LICENSE](data/licenses/baidu/ERNIE-4.5-21B-A3B-Thinking.txt) | - |
 | baidu | [ERNIE-5.5-Flash-Base](https://huggingface.co/baidu/ERNIE-5.5-Flash-Base) | other (ernie-5.5-flash-base-model-license-v1.0) | [LICENSE](data/licenses/baidu/ERNIE-5.5-Flash-Base.txt) | - |
 | baidu | [ERNIE-5.5-Flash-Base-BF16](https://huggingface.co/baidu/ERNIE-5.5-Flash-Base-BF16) | other (ernie-5.5-flash-base-model-license-v1.0) | [LICENSE](data/licenses/baidu/ERNIE-5.5-Flash-Base-BF16.txt) | - |
@@ -87,6 +88,7 @@ _Last checked: 2026-11-16 · 175 models_
 | ByteDance-Seed | [TaskMem](https://huggingface.co/ByteDance-Seed/TaskMem) | apache-2.0 | none | - |
 | ByteDance-Seed | [UI-TARS-1.5-7B](https://huggingface.co/ByteDance-Seed/UI-TARS-1.5-7B) | apache-2.0 | none | - |
 | deepseek-ai | [DeepSeek-OCR](https://huggingface.co/deepseek-ai/DeepSeek-OCR) | mit | [LICENSE](data/licenses/deepseek-ai/DeepSeek-OCR.txt) | - |
+| deepseek-ai | [DeepSeek-R1](https://huggingface.co/deepseek-ai/DeepSeek-R1) | mit | [LICENSE](data/licenses/deepseek-ai/DeepSeek-R1.txt) | - |
 | deepseek-ai | [DeepSeek-V3.2](https://huggingface.co/deepseek-ai/DeepSeek-V3.2) | mit | [LICENSE](data/licenses/deepseek-ai/DeepSeek-V3.2.txt) | - |
 | deepseek-ai | [DeepSeek-V4-Flash-0731](https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-0731) | mit | [LICENSE](data/licenses/deepseek-ai/DeepSeek-V4-Flash-0731.txt) | - |
 | deepseek-ai | [DeepSeek-V4-Flash-Vision-Exp](https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-Vision-Exp) | mit | [LICENSE](data/licenses/deepseek-ai/DeepSeek-V4-Flash-Vision-Exp.txt) | - |
@@ -169,9 +171,12 @@ _Last checked: 2026-11-16 · 175 models_
 | nvidia | [Metatron-v1](https://huggingface.co/nvidia/Metatron-v1) | other (nvidia-open-model-license) | [LICENSE.pdf](data/licenses/nvidia/Metatron-v1.txt) | - |
 | nvidia | [MetricTrail](https://huggingface.co/nvidia/MetricTrail) | other (nvidia-open-model-license) | none | - |
 | nvidia | [MotionBricks](https://huggingface.co/nvidia/MotionBricks) | not set | none | - |
+| nvidia | [Nemotron-Labs-Sigma-distill-8B-nfe16](https://huggingface.co/nvidia/Nemotron-Labs-Sigma-distill-8B-nfe16) | other (nvidia-nemotron-open-model-license) | none | - |
+| nvidia | [Nemotron-Labs-Sigma-distill-spec-3B](https://huggingface.co/nvidia/Nemotron-Labs-Sigma-distill-spec-3B) | other (nvidia-nemotron-open-model-license) | none | - |
 | nvidia | [NVIDIA-Nemotron-3-Nano-30B-A3B-BF16](https://huggingface.co/nvidia/NVIDIA-Nemotron-3-Nano-30B-A3B-BF16) | other (nvidia-nemotron-open-model-license) | none | - |
 | nvidia | [NVIDIA-Nemotron-3-Nano-4B-BF16](https://huggingface.co/nvidia/NVIDIA-Nemotron-3-Nano-4B-BF16) | other (nvidia-nemotron-open-model-license) | LICENSE | - |
 | nvidia | [Qwen3.6-35B-A3B-NVFP4](https://huggingface.co/nvidia/Qwen3.6-35B-A3B-NVFP4) | apache-2.0 | none | - |
+| nvidia | [Qwen3.8-Flash-Next-NVFP4-QAD](https://huggingface.co/nvidia/Qwen3.8-Flash-Next-NVFP4-QAD) | other (nvidia-open-model-license) | [LICENSE](data/licenses/nvidia/Qwen3.8-Flash-Next-NVFP4-QAD.txt) | - |
 | openai | [circuit-sparsity](https://huggingface.co/openai/circuit-sparsity) | apache-2.0 | [LICENSE.MD](data/licenses/openai/circuit-sparsity.txt) | - |
 | openai | [clip-vit-base-patch32](https://huggingface.co/openai/clip-vit-base-patch32) | not set | none | - |
 | openai | [clip-vit-large-patch14](https://huggingface.co/openai/clip-vit-large-patch14) | not set | none | - |
