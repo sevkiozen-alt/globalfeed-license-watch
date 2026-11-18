@@ -689,6 +689,16 @@
   "license_name": null,
   "license_sha256": null
  },
+ "black-forest-labs/hf-spaces-moderation-client": {
+  "changed": null,
+  "created": "2026-11-16",
+  "first_seen": "2026-11-18",
+  "gated": false,
+  "license": null,
+  "license_file": null,
+  "license_name": null,
+  "license_sha256": null
+ },
  "deepseek-ai/DeepSeek-OCR": {
   "changed": null,
   "created": "2025-10-17",
@@ -1299,6 +1309,16 @@
   "license_name": "nvidia-open-model-agreement",
   "license_sha256": "da05c356f773d22a0e1c6de390f280304d7cee6eb56fa161aa789d30dedba63b"
  },
+ "nvidia/Llama-3.2-1B-Qwen3.8-27B-Draft": {
+  "changed": null,
+  "created": "2026-11-11",
+  "first_seen": "2026-11-18",
+  "gated": false,
+  "license": "other",
+  "license_file": null,
+  "license_name": "nvidia-open-model-agreement",
+  "license_sha256": null
+ },
  "nvidia/Metatron-v1": {
   "changed": null,
   "created": "2026-10-27",
@@ -1367,6 +1387,26 @@
   "license": "other",
   "license_file": null,
   "license_name": "nvidia-nemotron-open-model-license",
+  "license_sha256": null
+ },
+ "nvidia/Qwen3.5-0.8B-Qwen3.8-27B-Draft": {
+  "changed": null,
+  "created": "2026-11-11",
+  "first_seen": "2026-11-18",
+  "gated": false,
+  "license": "other",
+  "license_file": null,
+  "license_name": "nvidia-open-model-agreement",
+  "license_sha256": null
+ },
+ "nvidia/Qwen3.5-4B-Qwen3.8-27B-Draft": {
+  "changed": null,
+  "created": "2026-11-11",
+  "first_seen": "2026-11-18",
+  "gated": false,
+  "license": "other",
+  "license_file": null,
+  "license_name": "nvidia-open-model-agreement",
   "license_sha256": null
  },
  "nvidia/Qwen3.6-35B-A3B-NVFP4": {
@@ -1539,6 +1579,16 @@
   "license_name": "sai-nc-community",
   "license_sha256": "d6f6b1a4dce5c852bd6d7d9482d002baf0ccdb71e662250b73be9eec8764ee8d"
  },
+ "stabilityai/sdxl-turbo-amdnpu-medusa": {
+  "changed": null,
+  "created": "2026-11-09",
+  "first_seen": "2026-11-18",
+  "gated": false,
+  "license": "other",
+  "license_file": "LICENSE",
+  "license_name": "stabilityai-ai-community",
+  "license_sha256": "79eda083d6eb7ae2714e2b9115ea5eef6b6fa6a6d597f38a439a0a0d22cb2b38"
+ },
  "stabilityai/stable-audio-3-optimized": {
   "changed": null,
   "created": "2026-05-18",
@@ -1709,6 +1759,36 @@
   "license_name": null,
   "license_sha256": "76a14d21e741dbbf1572e9c0e6bb809a9bd76f5b4da64a0b89e7331cc77ea84a"
  },
+ "tencent/Hy4-flash": {
+  "changed": null,
+  "created": "2026-11-17",
+  "first_seen": "2026-11-18",
+  "gated": false,
+  "license": "other",
+  "license_file": "LICENSE",
+  "license_name": "tencent-hy-license",
+  "license_sha256": "52755a6786f2f4b83b48cd7246aa9e34f7aac98563e4e60808ab02390799fdbd"
+ },
+ "tencent/Hy4-flash-FP8": {
+  "changed": null,
+  "created": "2026-11-17",
+  "first_seen": "2026-11-18",
+  "gated": false,
+  "license": "other",
+  "license_file": "LICENSE",
+  "license_name": "tencent-hy-license",
+  "license_sha256": "52755a6786f2f4b83b48cd7246aa9e34f7aac98563e4e60808ab02390799fdbd"
+ },
+ "tencent/Hy4-flash-base": {
+  "changed": null,
+  "created": "2026-11-17",
+  "first_seen": "2026-11-18",
+  "gated": false,
+  "license": "other",
+  "license_file": "LICENSE",
+  "license_name": "tencent-hy-license",
+  "license_sha256": "52755a6786f2f4b83b48cd7246aa9e34f7aac98563e4e60808ab02390799fdbd"
+ },
  "tencent/Qwen3.8-27B-DSpine-b16": {
   "changed": null,
   "created": "2026-11-07",
@@ -1738,6 +1818,16 @@
   "license_file": "LICENSE",
   "license_name": null,
   "license_sha256": "df97da91b705606ff9657f8ce4b4becff382c014e6b94069d1e55224b9d7d6d2"
+ },
+ "zai-org/GLM-4.7-Flash": {
+  "changed": null,
+  "created": "2026-01-19",
+  "first_seen": "2026-11-18",
+  "gated": false,
+  "license": "mit",
+  "license_file": null,
+  "license_name": null,
+  "license_sha256": null
  },
  "zai-org/GLM-5": {
   "changed": null,

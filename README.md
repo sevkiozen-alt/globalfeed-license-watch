@@ -43,7 +43,7 @@ Python 3.10 or newer, no dependencies. Set `HF_TOKEN` to also read license files
 ## Current licenses
 
 <!-- table:start -->
-_Last checked: 2026-11-17 · 180 models_
+_Last checked: 2026-11-18 · 189 models_
 
 | Organisation | Model | License | License file | Last change |
 |---|---|---|---|---|
@@ -76,6 +76,7 @@ _Last checked: 2026-11-17 · 180 models_
 | black-forest-labs | [FLUX.1-dev](https://huggingface.co/black-forest-labs/FLUX.1-dev) | other (flux-1-dev-non-commercial-license) | [LICENSE.md](data/licenses/black-forest-labs/FLUX.1-dev.txt) | - |
 | black-forest-labs | [FLUX.2-klein-4b-fp8](https://huggingface.co/black-forest-labs/FLUX.2-klein-4b-fp8) | apache-2.0 | [LICENSE.md](data/licenses/black-forest-labs/FLUX.2-klein-4b-fp8.txt) | - |
 | black-forest-labs | [FLUX.2-klein-base-4B](https://huggingface.co/black-forest-labs/FLUX.2-klein-base-4B) | apache-2.0 | [LICENSE.md](data/licenses/black-forest-labs/FLUX.2-klein-base-4B.txt) | - |
+| black-forest-labs | [hf-spaces-moderation-client](https://huggingface.co/black-forest-labs/hf-spaces-moderation-client) | not set | none | - |
 | ByteDance-Seed | [Cola2](https://huggingface.co/ByteDance-Seed/Cola2) | not set | none | - |
 | ByteDance-Seed | [Cross-Layer-TopK-CLT](https://huggingface.co/ByteDance-Seed/Cross-Layer-TopK-CLT) | apache-2.0 | [LICENSE](data/licenses/ByteDance-Seed/Cross-Layer-TopK-CLT.txt) | - |
 | ByteDance-Seed | [GenFirst](https://huggingface.co/ByteDance-Seed/GenFirst) | cc-by-nc-4.0 | [LICENSE](data/licenses/ByteDance-Seed/GenFirst.txt) | - |
@@ -168,6 +169,7 @@ _Last checked: 2026-11-17 · 180 models_
 | nvidia | [Gemma-4-26B-A4B-NVFP4](https://huggingface.co/nvidia/Gemma-4-26B-A4B-NVFP4) | apache-2.0 (apache-license-2.0) | none | - |
 | nvidia | [InternVideo2-CLIP-anomaly-detection](https://huggingface.co/nvidia/InternVideo2-CLIP-anomaly-detection) | other (nvidia-internal-scientific-research-and-development-model-license) | none | - |
 | nvidia | [Kimi-K3.1-Pro-NVFP4](https://huggingface.co/nvidia/Kimi-K3.1-Pro-NVFP4) | other (nvidia-open-model-agreement) | [LICENSE](data/licenses/nvidia/Kimi-K3.1-Pro-NVFP4.txt) | - |
+| nvidia | [Llama-3.2-1B-Qwen3.8-27B-Draft](https://huggingface.co/nvidia/Llama-3.2-1B-Qwen3.8-27B-Draft) | other (nvidia-open-model-agreement) | none | - |
 | nvidia | [Metatron-v1](https://huggingface.co/nvidia/Metatron-v1) | other (nvidia-open-model-license) | [LICENSE.pdf](data/licenses/nvidia/Metatron-v1.txt) | - |
 | nvidia | [MetricTrail](https://huggingface.co/nvidia/MetricTrail) | other (nvidia-open-model-license) | none | - |
 | nvidia | [MotionBricks](https://huggingface.co/nvidia/MotionBricks) | not set | none | - |
@@ -175,6 +177,8 @@ _Last checked: 2026-11-17 · 180 models_
 | nvidia | [Nemotron-Labs-Sigma-distill-spec-3B](https://huggingface.co/nvidia/Nemotron-Labs-Sigma-distill-spec-3B) | other (nvidia-nemotron-open-model-license) | none | - |
 | nvidia | [NVIDIA-Nemotron-3-Nano-30B-A3B-BF16](https://huggingface.co/nvidia/NVIDIA-Nemotron-3-Nano-30B-A3B-BF16) | other (nvidia-nemotron-open-model-license) | none | - |
 | nvidia | [NVIDIA-Nemotron-3-Nano-4B-BF16](https://huggingface.co/nvidia/NVIDIA-Nemotron-3-Nano-4B-BF16) | other (nvidia-nemotron-open-model-license) | LICENSE | - |
+| nvidia | [Qwen3.5-0.8B-Qwen3.8-27B-Draft](https://huggingface.co/nvidia/Qwen3.5-0.8B-Qwen3.8-27B-Draft) | other (nvidia-open-model-agreement) | none | - |
+| nvidia | [Qwen3.5-4B-Qwen3.8-27B-Draft](https://huggingface.co/nvidia/Qwen3.5-4B-Qwen3.8-27B-Draft) | other (nvidia-open-model-agreement) | none | - |
 | nvidia | [Qwen3.6-35B-A3B-NVFP4](https://huggingface.co/nvidia/Qwen3.6-35B-A3B-NVFP4) | apache-2.0 | none | - |
 | nvidia | [Qwen3.8-Flash-Next-NVFP4-QAD](https://huggingface.co/nvidia/Qwen3.8-Flash-Next-NVFP4-QAD) | other (nvidia-open-model-license) | [LICENSE](data/licenses/nvidia/Qwen3.8-Flash-Next-NVFP4-QAD.txt) | - |
 | openai | [circuit-sparsity](https://huggingface.co/openai/circuit-sparsity) | apache-2.0 | [LICENSE.MD](data/licenses/openai/circuit-sparsity.txt) | - |
@@ -201,6 +205,7 @@ _Last checked: 2026-11-17 · 180 models_
 | stabilityai | [sd-vae-ft-mse](https://huggingface.co/stabilityai/sd-vae-ft-mse) | mit | none | - |
 | stabilityai | [sdxl-base-amdnpu-medusa](https://huggingface.co/stabilityai/sdxl-base-amdnpu-medusa) | openrail++ | [LICENSE](data/licenses/stabilityai/sdxl-base-amdnpu-medusa.txt) | 2026-11-09 |
 | stabilityai | [sdxl-turbo](https://huggingface.co/stabilityai/sdxl-turbo) | other (sai-nc-community) | [LICENSE.md](data/licenses/stabilityai/sdxl-turbo.txt) | - |
+| stabilityai | [sdxl-turbo-amdnpu-medusa](https://huggingface.co/stabilityai/sdxl-turbo-amdnpu-medusa) | other (stabilityai-ai-community) | [LICENSE](data/licenses/stabilityai/sdxl-turbo-amdnpu-medusa.txt) | - |
 | stabilityai | [stable-audio-3-optimized](https://huggingface.co/stabilityai/stable-audio-3-optimized) | other (stable-audio-community) | [LICENSE.md](data/licenses/stabilityai/stable-audio-3-optimized.txt) | - |
 | stabilityai | [stable-diffusion-3.5-medium-amdnpu-medusa](https://huggingface.co/stabilityai/stable-diffusion-3.5-medium-amdnpu-medusa) | other (stabilityai-ai-community) | none | - |
 | stabilityai | [stable-diffusion-xl-base-1.0](https://huggingface.co/stabilityai/stable-diffusion-xl-base-1.0) | openrail++ | [LICENSE.md](data/licenses/stabilityai/stable-diffusion-xl-base-1.0.txt) | - |
@@ -218,9 +223,13 @@ _Last checked: 2026-11-17 · 180 models_
 | tencent | [Hy-Nomas-Diffusers](https://huggingface.co/tencent/Hy-Nomas-Diffusers) | apache-2.0 | [LICENSE](data/licenses/tencent/Hy-Nomas-Diffusers.txt) | - |
 | tencent | [Hy-SimulMT-30B-A3B-Interleave-GGUF](https://huggingface.co/tencent/Hy-SimulMT-30B-A3B-Interleave-GGUF) | not set | [LICENSE.txt](data/licenses/tencent/Hy-SimulMT-30B-A3B-Interleave-GGUF.txt) | - |
 | tencent | [Hy3](https://huggingface.co/tencent/Hy3) | apache-2.0 | [LICENSE](data/licenses/tencent/Hy3.txt) | - |
+| tencent | [Hy4-flash](https://huggingface.co/tencent/Hy4-flash) | other (tencent-hy-license) | [LICENSE](data/licenses/tencent/Hy4-flash.txt) | - |
+| tencent | [Hy4-flash-base](https://huggingface.co/tencent/Hy4-flash-base) | other (tencent-hy-license) | [LICENSE](data/licenses/tencent/Hy4-flash-base.txt) | - |
+| tencent | [Hy4-flash-FP8](https://huggingface.co/tencent/Hy4-flash-FP8) | other (tencent-hy-license) | [LICENSE](data/licenses/tencent/Hy4-flash-FP8.txt) | - |
 | tencent | [Qwen3.8-27B-DSpine-b16](https://huggingface.co/tencent/Qwen3.8-27B-DSpine-b16) | apache-2.0 | [LICENSE](data/licenses/tencent/Qwen3.8-27B-DSpine-b16.txt) | - |
 | tencent | [WeVisOne-VL-2B](https://huggingface.co/tencent/WeVisOne-VL-2B) | apache-2.0 | [LICENSE](data/licenses/tencent/WeVisOne-VL-2B.txt) | - |
 | tencent | [WeVisOne-VL-4B](https://huggingface.co/tencent/WeVisOne-VL-4B) | apache-2.0 | [LICENSE](data/licenses/tencent/WeVisOne-VL-4B.txt) | - |
+| zai-org | [GLM-4.7-Flash](https://huggingface.co/zai-org/GLM-4.7-Flash) | mit | none | - |
 | zai-org | [GLM-5](https://huggingface.co/zai-org/GLM-5) | mit | none | - |
 | zai-org | [GLM-5.3](https://huggingface.co/zai-org/GLM-5.3) | other (glm-5.3) | [LICENSE](data/licenses/zai-org/GLM-5.3.txt) | - |
 | zai-org | [GLM-5.3-BF16](https://huggingface.co/zai-org/GLM-5.3-BF16) | other (glm-5.3) | [LICENSE](data/licenses/zai-org/GLM-5.3-BF16.txt) | - |
