@@ -629,6 +629,16 @@
   "license_name": "flux-1-dev-non-commercial-license",
   "license_sha256": "6f7b3d94ddd94380a4dc2d1211ed57883d320dea96f4393b34d4a454041029e1"
  },
+ "black-forest-labs/FLUX.2-klein-4B": {
+  "changed": null,
+  "created": "2026-01-14",
+  "first_seen": "2026-11-19",
+  "gated": false,
+  "license": "apache-2.0",
+  "license_file": "LICENSE.md",
+  "license_name": null,
+  "license_sha256": "ca02bc51900ab07789d1b70283329e7137f5af98f5161c23a1c81fc38a4af1fe"
+ },
  "black-forest-labs/FLUX.2-klein-4b-fp8": {
   "changed": null,
   "created": "2026-01-14",
@@ -879,6 +889,16 @@
   "license_name": null,
   "license_sha256": null
  },
+ "ibm-granite/granite-docling-258M": {
+  "changed": null,
+  "created": "2025-05-19",
+  "first_seen": "2026-11-19",
+  "gated": false,
+  "license": "apache-2.0",
+  "license_file": null,
+  "license_name": null,
+  "license_sha256": null
+ },
  "ibm-granite/granite-embedding-small-english-r2": {
   "changed": null,
   "created": "2025-07-17",
@@ -1028,6 +1048,26 @@
   "license_file": "LICENSE",
   "license_name": null,
   "license_sha256": "64e1b2889b7892e6bbe7a7ed5bfe6ff793c61f9d584345f8f41cf9f5cb30a369"
+ },
+ "microsoft/Aion-1.0-Instruct-2.3B": {
+  "changed": null,
+  "created": "2026-11-18",
+  "first_seen": "2026-11-19",
+  "gated": false,
+  "license": "mit",
+  "license_file": "LICENSE",
+  "license_name": null,
+  "license_sha256": "7df20dcdf9197e9945c14858d41c60f11b52b93e5b69e2b63416b874d598d322"
+ },
+ "microsoft/Aion-1.0-Instruct-2.3B-ONNX-WebGPU": {
+  "changed": null,
+  "created": "2026-11-18",
+  "first_seen": "2026-11-19",
+  "gated": false,
+  "license": "mit",
+  "license_file": "LICENSE",
+  "license_name": null,
+  "license_sha256": "7df20dcdf9197e9945c14858d41c60f11b52b93e5b69e2b63416b874d598d322"
  },
  "microsoft/BiomedNLP-BiomedBERT-base-uncased-abstract-fulltext": {
   "changed": null,
@@ -1798,6 +1838,16 @@
   "license_file": "LICENSE",
   "license_name": null,
   "license_sha256": "bbedc3fda3305820b977265f01b8619d87570a6739de3a5582c3464840f1e57a"
+ },
+ "tencent/WeVisForensics": {
+  "changed": null,
+  "created": "2026-11-14",
+  "first_seen": "2026-11-19",
+  "gated": false,
+  "license": "apache-2.0",
+  "license_file": "LICENSE",
+  "license_name": null,
+  "license_sha256": "f40347a79bc24ee75dad77a356a144a415136f014f8c89197870b1ddff1a6569"
  },
  "tencent/WeVisOne-VL-2B": {
   "changed": null,
