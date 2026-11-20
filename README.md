@@ -43,7 +43,7 @@ Python 3.10 or newer, no dependencies. Set `HF_TOKEN` to also read license files
 ## Current licenses
 
 <!-- table:start -->
-_Last checked: 2026-11-19 · 194 models_
+_Last checked: 2026-11-20 · 200 models_
 
 | Organisation | Model | License | License file | Last change |
 |---|---|---|---|---|
@@ -144,6 +144,7 @@ _Last checked: 2026-11-19 · 194 models_
 | microsoft | [TRELLIS-image-large](https://huggingface.co/microsoft/TRELLIS-image-large) | mit | none | - |
 | microsoft | [TRELLIS.2-4B](https://huggingface.co/microsoft/TRELLIS.2-4B) | mit | none | - |
 | microsoft | [UserRepGen-4B](https://huggingface.co/microsoft/UserRepGen-4B) | mit | [LICENSE.Qwen](data/licenses/microsoft/UserRepGen-4B.txt) | - |
+| microsoft | [wavlm-large](https://huggingface.co/microsoft/wavlm-large) | not set | none | - |
 | MiniMaxAI | [MiniMax-H3](https://huggingface.co/MiniMaxAI/MiniMax-H3) | other (minimax-h3-community-license-agreement) | [LICENSE](data/licenses/MiniMaxAI/MiniMax-H3.txt) | - |
 | MiniMaxAI | [MiniMax-H3-Image](https://huggingface.co/MiniMaxAI/MiniMax-H3-Image) | other (minimax-h3-image-community-license-agreement) | [LICENSE](data/licenses/MiniMaxAI/MiniMax-H3-Image.txt) | - |
 | MiniMaxAI | [MiniMax-H3-Image-PE](https://huggingface.co/MiniMaxAI/MiniMax-H3-Image-PE) | other (minimax-h3-image-community-license-agreement) | none | - |
@@ -204,6 +205,7 @@ _Last checked: 2026-11-19 · 194 models_
 | Qwen | [Qwen3-Embedding-0.6B](https://huggingface.co/Qwen/Qwen3-Embedding-0.6B) | apache-2.0 | none | - |
 | Qwen | [Qwen3-VL-8B-Instruct](https://huggingface.co/Qwen/Qwen3-VL-8B-Instruct) | apache-2.0 | none | - |
 | Qwen | [Qwen3.8-27B](https://huggingface.co/Qwen/Qwen3.8-27B) | apache-2.0 | [LICENSE](data/licenses/Qwen/Qwen3.8-27B.txt) | - |
+| Qwen | [Qwen3.8-27B-FP8](https://huggingface.co/Qwen/Qwen3.8-27B-FP8) | apache-2.0 | [LICENSE](data/licenses/Qwen/Qwen3.8-27B-FP8.txt) | - |
 | stabilityai | [SAME-L](https://huggingface.co/stabilityai/SAME-L) | other (stable-audio-community) | [LICENSE.md](data/licenses/stabilityai/SAME-L.txt) | - |
 | stabilityai | [sd-turbo](https://huggingface.co/stabilityai/sd-turbo) | not set | [LICENSE.md](data/licenses/stabilityai/sd-turbo.txt) | - |
 | stabilityai | [sd-vae-ft-mse](https://huggingface.co/stabilityai/sd-vae-ft-mse) | mit | none | - |
@@ -227,10 +229,14 @@ _Last checked: 2026-11-19 · 194 models_
 | tencent | [Hy-Nomas-Diffusers](https://huggingface.co/tencent/Hy-Nomas-Diffusers) | apache-2.0 | [LICENSE](data/licenses/tencent/Hy-Nomas-Diffusers.txt) | - |
 | tencent | [Hy-SimulMT-30B-A3B-Interleave-GGUF](https://huggingface.co/tencent/Hy-SimulMT-30B-A3B-Interleave-GGUF) | not set | [LICENSE.txt](data/licenses/tencent/Hy-SimulMT-30B-A3B-Interleave-GGUF.txt) | - |
 | tencent | [Hy3](https://huggingface.co/tencent/Hy3) | apache-2.0 | [LICENSE](data/licenses/tencent/Hy3.txt) | - |
+| tencent | [Hy4-base](https://huggingface.co/tencent/Hy4-base) | other (tencent-hy-license) | [LICENSE](data/licenses/tencent/Hy4-base.txt) | - |
 | tencent | [Hy4-flash](https://huggingface.co/tencent/Hy4-flash) | other (tencent-hy-license) | [LICENSE](data/licenses/tencent/Hy4-flash.txt) | - |
 | tencent | [Hy4-flash-base](https://huggingface.co/tencent/Hy4-flash-base) | other (tencent-hy-license) | [LICENSE](data/licenses/tencent/Hy4-flash-base.txt) | - |
 | tencent | [Hy4-flash-FP8](https://huggingface.co/tencent/Hy4-flash-FP8) | other (tencent-hy-license) | [LICENSE](data/licenses/tencent/Hy4-flash-FP8.txt) | - |
+| tencent | [Hy4-FP8](https://huggingface.co/tencent/Hy4-FP8) | other (tencent-hy-license) | [LICENSE](data/licenses/tencent/Hy4-FP8.txt) | - |
 | tencent | [Qwen3.8-27B-DSpine-b16](https://huggingface.co/tencent/Qwen3.8-27B-DSpine-b16) | apache-2.0 | [LICENSE](data/licenses/tencent/Qwen3.8-27B-DSpine-b16.txt) | - |
+| tencent | [WeMM-Video-2B-GGUF](https://huggingface.co/tencent/WeMM-Video-2B-GGUF) | apache-2.0 | [LICENSE](data/licenses/tencent/WeMM-Video-2B-GGUF.txt) | - |
+| tencent | [WeMM-Video-2B-NVFP4](https://huggingface.co/tencent/WeMM-Video-2B-NVFP4) | apache-2.0 | [LICENSE](data/licenses/tencent/WeMM-Video-2B-NVFP4.txt) | - |
 | tencent | [WeVisForensics](https://huggingface.co/tencent/WeVisForensics) | apache-2.0 | [LICENSE](data/licenses/tencent/WeVisForensics.txt) | - |
 | tencent | [WeVisOne-VL-2B](https://huggingface.co/tencent/WeVisOne-VL-2B) | apache-2.0 | [LICENSE](data/licenses/tencent/WeVisOne-VL-2B.txt) | - |
 | tencent | [WeVisOne-VL-4B](https://huggingface.co/tencent/WeVisOne-VL-4B) | apache-2.0 | [LICENSE](data/licenses/tencent/WeVisOne-VL-4B.txt) | - |

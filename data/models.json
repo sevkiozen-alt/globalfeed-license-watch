@@ -399,6 +399,16 @@
   "license_name": null,
   "license_sha256": "bbedc3fda3305820b977265f01b8619d87570a6739de3a5582c3464840f1e57a"
  },
+ "Qwen/Qwen3.8-27B-FP8": {
+  "changed": null,
+  "created": "2026-08-13",
+  "first_seen": "2026-11-20",
+  "gated": false,
+  "license": "apache-2.0",
+  "license_file": "LICENSE",
+  "license_name": null,
+  "license_sha256": "bbedc3fda3305820b977265f01b8619d87570a6739de3a5582c3464840f1e57a"
+ },
  "allenai/AstaBrief_8B_SFT": {
   "changed": null,
   "created": "2026-09-10",
@@ -1159,6 +1169,16 @@
   "license_name": null,
   "license_sha256": "c2cfccb812fe482101a8f04597dfc5a9991a6b2748266c47ac91b6a5aae15383"
  },
+ "microsoft/wavlm-large": {
+  "changed": null,
+  "created": "2022-03-02",
+  "first_seen": "2026-11-20",
+  "gated": false,
+  "license": null,
+  "license_file": null,
+  "license_name": null,
+  "license_sha256": null
+ },
  "mistralai/Mistral-7B-Instruct-v0.2": {
   "changed": null,
   "created": "2023-12-11",
@@ -1799,6 +1819,26 @@
   "license_name": null,
   "license_sha256": "76a14d21e741dbbf1572e9c0e6bb809a9bd76f5b4da64a0b89e7331cc77ea84a"
  },
+ "tencent/Hy4-FP8": {
+  "changed": null,
+  "created": "2026-11-18",
+  "first_seen": "2026-11-20",
+  "gated": false,
+  "license": "other",
+  "license_file": "LICENSE",
+  "license_name": "tencent-hy-license",
+  "license_sha256": "52755a6786f2f4b83b48cd7246aa9e34f7aac98563e4e60808ab02390799fdbd"
+ },
+ "tencent/Hy4-base": {
+  "changed": null,
+  "created": "2026-11-18",
+  "first_seen": "2026-11-20",
+  "gated": false,
+  "license": "other",
+  "license_file": "LICENSE",
+  "license_name": "tencent-hy-license",
+  "license_sha256": "52755a6786f2f4b83b48cd7246aa9e34f7aac98563e4e60808ab02390799fdbd"
+ },
  "tencent/Hy4-flash": {
   "changed": null,
   "created": "2026-11-17",
@@ -1838,6 +1878,26 @@
   "license_file": "LICENSE",
   "license_name": null,
   "license_sha256": "bbedc3fda3305820b977265f01b8619d87570a6739de3a5582c3464840f1e57a"
+ },
+ "tencent/WeMM-Video-2B-GGUF": {
+  "changed": null,
+  "created": "2026-11-17",
+  "first_seen": "2026-11-20",
+  "gated": false,
+  "license": "apache-2.0",
+  "license_file": "LICENSE",
+  "license_name": null,
+  "license_sha256": "bac4d42ddebadb11e405fc4de2335579e67676362ac870108012ab4899ef1e5b"
+ },
+ "tencent/WeMM-Video-2B-NVFP4": {
+  "changed": null,
+  "created": "2026-11-17",
+  "first_seen": "2026-11-20",
+  "gated": false,
+  "license": "apache-2.0",
+  "license_file": "LICENSE",
+  "license_name": null,
+  "license_sha256": "bac4d42ddebadb11e405fc4de2335579e67676362ac870108012ab4899ef1e5b"
  },
  "tencent/WeVisForensics": {
   "changed": null,
