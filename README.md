@@ -43,12 +43,14 @@ Python 3.10 or newer, no dependencies. Set `HF_TOKEN` to also read license files
 ## Current licenses
 
 <!-- table:start -->
-_Last checked: 2026-11-20 · 200 models_
+_Last checked: 2026-11-21 · 204 models_
 
 | Organisation | Model | License | License file | Last change |
 |---|---|---|---|---|
+| allenai | [ACE2.5-ERA5](https://huggingface.co/allenai/ACE2.5-ERA5) | apache-2.0 | none | - |
 | allenai | [AstaBrief_8B_SFT](https://huggingface.co/allenai/AstaBrief_8B_SFT) | apache-2.0 | none | - |
 | allenai | [HiRO-ACEv2](https://huggingface.co/allenai/HiRO-ACEv2) | apache-2.0 | none | - |
+| allenai | [LitAgent-Joint-SFT-9B-lg7eae-2n](https://huggingface.co/allenai/LitAgent-Joint-SFT-9B-lg7eae-2n) | not set | none | - |
 | allenai | [longformer-base-4096](https://huggingface.co/allenai/longformer-base-4096) | apache-2.0 | none | - |
 | allenai | [maniflow-tb](https://huggingface.co/allenai/maniflow-tb) | apache-2.0 | [LICENSE](data/licenses/allenai/maniflow-tb.txt) | - |
 | allenai | [Molmo2-4B-tb](https://huggingface.co/allenai/Molmo2-4B-tb) | apache-2.0 | none | - |
@@ -113,6 +115,7 @@ _Last checked: 2026-11-20 · 200 models_
 | ibm-granite | [granite-switch-4.1-30b-GGUF](https://huggingface.co/ibm-granite/granite-switch-4.1-30b-GGUF) | apache-2.0 | none | - |
 | ibm-granite | [granite-switch-4.1-8b](https://huggingface.co/ibm-granite/granite-switch-4.1-8b) | apache-2.0 | none | - |
 | ibm-granite | [granite-switch-4.1-8b-GGUF](https://huggingface.co/ibm-granite/granite-switch-4.1-8b-GGUF) | apache-2.0 | none | - |
+| ibm-granite | [granite-timeseries-patchtst-fm-r2](https://huggingface.co/ibm-granite/granite-timeseries-patchtst-fm-r2) | openmdw-1.0 | [LICENSE](data/licenses/ibm-granite/granite-timeseries-patchtst-fm-r2.txt) | - |
 | ibm-granite | [granite-timeseries-tspulse-r1](https://huggingface.co/ibm-granite/granite-timeseries-tspulse-r1) | apache-2.0 | none | - |
 | ibm-granite | [granite-timeseries-ttm-r3](https://huggingface.co/ibm-granite/granite-timeseries-ttm-r3) | apache-2.0 | none | - |
 | LiquidAI | [d1-2B-GGUF](https://huggingface.co/LiquidAI/d1-2B-GGUF) | other (lfm1.0) | [LICENSE](data/licenses/LiquidAI/d1-2B-GGUF.txt) | - |
@@ -126,6 +129,7 @@ _Last checked: 2026-11-20 · 200 models_
 | LiquidAI | [LFM3-Audio-2B-GGUF](https://huggingface.co/LiquidAI/LFM3-Audio-2B-GGUF) | other (lfm1.0) | [LICENSE](data/licenses/LiquidAI/LFM3-Audio-2B-GGUF.txt) | - |
 | LiquidAI | [LFM3-Omni-2B-GGUF](https://huggingface.co/LiquidAI/LFM3-Omni-2B-GGUF) | other (lfm1.0) | [LICENSE](data/licenses/LiquidAI/LFM3-Omni-2B-GGUF.txt) | - |
 | meta-llama | [Llama-3.1-8B-Instruct](https://huggingface.co/meta-llama/Llama-3.1-8B-Instruct) | llama3.1 | [LICENSE](data/licenses/meta-llama/Llama-3.1-8B-Instruct.txt) | - |
+| meta-llama | [Llama-3.2-1B](https://huggingface.co/meta-llama/Llama-3.2-1B) | llama3.2 | [LICENSE.txt](data/licenses/meta-llama/Llama-3.2-1B.txt) | - |
 | meta-llama | [Llama-3.2-1B-Instruct](https://huggingface.co/meta-llama/Llama-3.2-1B-Instruct) | llama3.2 | [LICENSE.txt](data/licenses/meta-llama/Llama-3.2-1B-Instruct.txt) | - |
 | meta-llama | [Llama-3.2-3B-Instruct](https://huggingface.co/meta-llama/Llama-3.2-3B-Instruct) | llama3.2 | [LICENSE.txt](data/licenses/meta-llama/Llama-3.2-3B-Instruct.txt) | - |
 | meta-llama | [Llama-4-Maverick-17B-128E-Instruct-FP8-Original](https://huggingface.co/meta-llama/Llama-4-Maverick-17B-128E-Instruct-FP8-Original) | other (llama4) | [LICENSE](data/licenses/meta-llama/Llama-4-Maverick-17B-128E-Instruct-FP8-Original.txt) | - |

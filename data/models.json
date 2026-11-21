@@ -409,6 +409,16 @@
   "license_name": null,
   "license_sha256": "bbedc3fda3305820b977265f01b8619d87570a6739de3a5582c3464840f1e57a"
  },
+ "allenai/ACE2.5-ERA5": {
+  "changed": null,
+  "created": "2026-11-19",
+  "first_seen": "2026-11-21",
+  "gated": false,
+  "license": "apache-2.0",
+  "license_file": null,
+  "license_name": null,
+  "license_sha256": null
+ },
  "allenai/AstaBrief_8B_SFT": {
   "changed": null,
   "created": "2026-09-10",
@@ -425,6 +435,16 @@
   "first_seen": "2026-11-04",
   "gated": false,
   "license": "apache-2.0",
+  "license_file": null,
+  "license_name": null,
+  "license_sha256": null
+ },
+ "allenai/LitAgent-Joint-SFT-9B-lg7eae-2n": {
+  "changed": null,
+  "created": "2026-11-20",
+  "first_seen": "2026-11-21",
+  "gated": false,
+  "license": null,
   "license_file": null,
   "license_name": null,
   "license_sha256": null
@@ -959,6 +979,16 @@
   "license_name": null,
   "license_sha256": null
  },
+ "ibm-granite/granite-timeseries-patchtst-fm-r2": {
+  "changed": null,
+  "created": "2026-08-07",
+  "first_seen": "2026-11-21",
+  "gated": false,
+  "license": "openmdw-1.0",
+  "license_file": "LICENSE",
+  "license_name": null,
+  "license_sha256": "3fe50bcae6f8a3c8aac0eb641f2cdf62f066f1967a95bb4303eefd7e123ff0f1"
+ },
  "ibm-granite/granite-timeseries-tspulse-r1": {
   "changed": null,
   "created": "2025-06-03",
@@ -988,6 +1018,16 @@
   "license_file": "LICENSE",
   "license_name": null,
   "license_sha256": "64e1b2889b7892e6bbe7a7ed5bfe6ff793c61f9d584345f8f41cf9f5cb30a369"
+ },
+ "meta-llama/Llama-3.2-1B": {
+  "changed": null,
+  "created": "2024-09-18",
+  "first_seen": "2026-11-21",
+  "gated": true,
+  "license": "llama3.2",
+  "license_file": "LICENSE.txt",
+  "license_name": null,
+  "license_sha256": "0b4284c1f87029e67654c7953afa16279961632cf73dcfe33374c4c2f298fa35"
  },
  "meta-llama/Llama-3.2-1B-Instruct": {
   "changed": null,

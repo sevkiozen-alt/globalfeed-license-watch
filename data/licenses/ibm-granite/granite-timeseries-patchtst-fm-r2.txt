@@ -1,0 +1,5 @@
+This project is dual‑licensed under the OpenMDW License 1.0 and the Apache License 2.0. You may use this project under the terms of either license, at your option.
+
+Apache License 2.0: https://www.apache.org/licenses/LICENSE-2.0.txt
+
+Open MDW License 1.0: https://openmdw.ai/license/1-0/
