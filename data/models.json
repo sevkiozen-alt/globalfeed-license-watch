@@ -369,6 +369,16 @@
   "license_name": null,
   "license_sha256": "832dd9e00a68dd83b3c3fb9f5588dad7dcf337a0db50f7d9483f310cd292e92e"
  },
+ "Qwen/Qwen3-4B-Instruct-2507": {
+  "changed": null,
+  "created": "2025-08-05",
+  "first_seen": "2026-11-22",
+  "gated": false,
+  "license": "apache-2.0",
+  "license_file": "LICENSE",
+  "license_name": null,
+  "license_sha256": "832dd9e00a68dd83b3c3fb9f5588dad7dcf337a0db50f7d9483f310cd292e92e"
+ },
  "Qwen/Qwen3-Embedding-0.6B": {
   "changed": null,
   "created": "2025-06-03",

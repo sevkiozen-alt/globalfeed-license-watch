@@ -43,7 +43,7 @@ Python 3.10 or newer, no dependencies. Set `HF_TOKEN` to also read license files
 ## Current licenses
 
 <!-- table:start -->
-_Last checked: 2026-11-21 · 204 models_
+_Last checked: 2026-11-22 · 205 models_
 
 | Organisation | Model | License | License file | Last change |
 |---|---|---|---|---|
@@ -206,6 +206,7 @@ _Last checked: 2026-11-21 · 204 models_
 | Qwen | [Qwen3-0.6B](https://huggingface.co/Qwen/Qwen3-0.6B) | apache-2.0 | [LICENSE](data/licenses/Qwen/Qwen3-0.6B.txt) | - |
 | Qwen | [Qwen3-14B](https://huggingface.co/Qwen/Qwen3-14B) | apache-2.0 | [LICENSE](data/licenses/Qwen/Qwen3-14B.txt) | - |
 | Qwen | [Qwen3-4B](https://huggingface.co/Qwen/Qwen3-4B) | apache-2.0 | [LICENSE](data/licenses/Qwen/Qwen3-4B.txt) | - |
+| Qwen | [Qwen3-4B-Instruct-2507](https://huggingface.co/Qwen/Qwen3-4B-Instruct-2507) | apache-2.0 | [LICENSE](data/licenses/Qwen/Qwen3-4B-Instruct-2507.txt) | - |
 | Qwen | [Qwen3-Embedding-0.6B](https://huggingface.co/Qwen/Qwen3-Embedding-0.6B) | apache-2.0 | none | - |
 | Qwen | [Qwen3-VL-8B-Instruct](https://huggingface.co/Qwen/Qwen3-VL-8B-Instruct) | apache-2.0 | none | - |
 | Qwen | [Qwen3.8-27B](https://huggingface.co/Qwen/Qwen3.8-27B) | apache-2.0 | [LICENSE](data/licenses/Qwen/Qwen3.8-27B.txt) | - |
