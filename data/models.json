@@ -469,6 +469,16 @@
   "license_name": null,
   "license_sha256": null
  },
+ "allenai/OLMo-2-0425-1B": {
+  "changed": null,
+  "created": "2025-04-17",
+  "first_seen": "2026-11-23",
+  "gated": false,
+  "license": "apache-2.0",
+  "license_file": null,
+  "license_name": null,
+  "license_sha256": null
+ },
  "allenai/Olmo-3-7B-Instruct": {
   "changed": null,
   "created": "2025-11-19",
@@ -1928,6 +1938,46 @@
   "license_file": "LICENSE",
   "license_name": null,
   "license_sha256": "bbedc3fda3305820b977265f01b8619d87570a6739de3a5582c3464840f1e57a"
+ },
+ "tencent/WeMM-Ecom-2B-GPTQ": {
+  "changed": null,
+  "created": "2026-11-23",
+  "first_seen": "2026-11-23",
+  "gated": false,
+  "license": "apache-2.0",
+  "license_file": "LICENSE",
+  "license_name": null,
+  "license_sha256": "53e63307bbeb271f35c01c88a8f8c3cc763c03cdc1842508414fae902697baeb"
+ },
+ "tencent/WeMM-Ecom-35B-A3B-GPTQ": {
+  "changed": null,
+  "created": "2026-11-23",
+  "first_seen": "2026-11-23",
+  "gated": false,
+  "license": "apache-2.0",
+  "license_file": "LICENSE",
+  "license_name": null,
+  "license_sha256": "07d59be07f5a271093f36ee43a886d2914022533addd7ecab335543265ba0fa7"
+ },
+ "tencent/WeMM-Ecom-4B-GPTQ": {
+  "changed": null,
+  "created": "2026-11-23",
+  "first_seen": "2026-11-23",
+  "gated": false,
+  "license": "apache-2.0",
+  "license_file": "LICENSE",
+  "license_name": null,
+  "license_sha256": "2af18f1501746b9fdd312bd0ee6986a604f0fe326dc6157f58c099cf7c8e0b8c"
+ },
+ "tencent/WeMM-Ecom-9B-GPTQ": {
+  "changed": null,
+  "created": "2026-11-23",
+  "first_seen": "2026-11-23",
+  "gated": false,
+  "license": "apache-2.0",
+  "license_file": "LICENSE",
+  "license_name": null,
+  "license_sha256": "270dcf9b25ead7332744e162fd24f599beae692055cd4b9a228988331bf6fe79"
  },
  "tencent/WeMM-Video-2B-GGUF": {
   "changed": null,

@@ -43,7 +43,7 @@ Python 3.10 or newer, no dependencies. Set `HF_TOKEN` to also read license files
 ## Current licenses
 
 <!-- table:start -->
-_Last checked: 2026-11-22 · 205 models_
+_Last checked: 2026-11-23 · 210 models_
 
 | Organisation | Model | License | License file | Last change |
 |---|---|---|---|---|
@@ -54,6 +54,7 @@ _Last checked: 2026-11-22 · 205 models_
 | allenai | [longformer-base-4096](https://huggingface.co/allenai/longformer-base-4096) | apache-2.0 | none | - |
 | allenai | [maniflow-tb](https://huggingface.co/allenai/maniflow-tb) | apache-2.0 | [LICENSE](data/licenses/allenai/maniflow-tb.txt) | - |
 | allenai | [Molmo2-4B-tb](https://huggingface.co/allenai/Molmo2-4B-tb) | apache-2.0 | none | - |
+| allenai | [OLMo-2-0425-1B](https://huggingface.co/allenai/OLMo-2-0425-1B) | apache-2.0 | none | - |
 | allenai | [Olmo-3-7B-Instruct](https://huggingface.co/allenai/Olmo-3-7B-Instruct) | apache-2.0 | none | - |
 | allenai | [olmOCR-2-7B-1025-FP8](https://huggingface.co/allenai/olmOCR-2-7B-1025-FP8) | apache-2.0 | none | - |
 | allenai | [olmOCR-7B-0825-FP8](https://huggingface.co/allenai/olmOCR-7B-0825-FP8) | apache-2.0 | none | - |
@@ -240,6 +241,10 @@ _Last checked: 2026-11-22 · 205 models_
 | tencent | [Hy4-flash-FP8](https://huggingface.co/tencent/Hy4-flash-FP8) | other (tencent-hy-license) | [LICENSE](data/licenses/tencent/Hy4-flash-FP8.txt) | - |
 | tencent | [Hy4-FP8](https://huggingface.co/tencent/Hy4-FP8) | other (tencent-hy-license) | [LICENSE](data/licenses/tencent/Hy4-FP8.txt) | - |
 | tencent | [Qwen3.8-27B-DSpine-b16](https://huggingface.co/tencent/Qwen3.8-27B-DSpine-b16) | apache-2.0 | [LICENSE](data/licenses/tencent/Qwen3.8-27B-DSpine-b16.txt) | - |
+| tencent | [WeMM-Ecom-2B-GPTQ](https://huggingface.co/tencent/WeMM-Ecom-2B-GPTQ) | apache-2.0 | [LICENSE](data/licenses/tencent/WeMM-Ecom-2B-GPTQ.txt) | - |
+| tencent | [WeMM-Ecom-35B-A3B-GPTQ](https://huggingface.co/tencent/WeMM-Ecom-35B-A3B-GPTQ) | apache-2.0 | [LICENSE](data/licenses/tencent/WeMM-Ecom-35B-A3B-GPTQ.txt) | - |
+| tencent | [WeMM-Ecom-4B-GPTQ](https://huggingface.co/tencent/WeMM-Ecom-4B-GPTQ) | apache-2.0 | [LICENSE](data/licenses/tencent/WeMM-Ecom-4B-GPTQ.txt) | - |
+| tencent | [WeMM-Ecom-9B-GPTQ](https://huggingface.co/tencent/WeMM-Ecom-9B-GPTQ) | apache-2.0 | [LICENSE](data/licenses/tencent/WeMM-Ecom-9B-GPTQ.txt) | - |
 | tencent | [WeMM-Video-2B-GGUF](https://huggingface.co/tencent/WeMM-Video-2B-GGUF) | apache-2.0 | [LICENSE](data/licenses/tencent/WeMM-Video-2B-GGUF.txt) | - |
 | tencent | [WeMM-Video-2B-NVFP4](https://huggingface.co/tencent/WeMM-Video-2B-NVFP4) | apache-2.0 | [LICENSE](data/licenses/tencent/WeMM-Video-2B-NVFP4.txt) | - |
 | tencent | [WeVisForensics](https://huggingface.co/tencent/WeVisForensics) | apache-2.0 | [LICENSE](data/licenses/tencent/WeVisForensics.txt) | - |
