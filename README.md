@@ -43,7 +43,7 @@ Python 3.10 or newer, no dependencies. Set `HF_TOKEN` to also read license files
 ## Current licenses
 
 <!-- table:start -->
-_Last checked: 2026-11-23 · 210 models_
+_Last checked: 2026-11-24 · 217 models_
 
 | Organisation | Model | License | License file | Last change |
 |---|---|---|---|---|
@@ -60,6 +60,8 @@ _Last checked: 2026-11-23 · 210 models_
 | allenai | [olmOCR-7B-0825-FP8](https://huggingface.co/allenai/olmOCR-7B-0825-FP8) | apache-2.0 | none | - |
 | allenai | [OlmoEarth-v1_2-FT-LFMC-Base](https://huggingface.co/allenai/OlmoEarth-v1_2-FT-LFMC-Base) | other (olmoearth-artifact-license) | [LICENSE.txt](data/licenses/allenai/OlmoEarth-v1_2-FT-LFMC-Base.txt) | - |
 | allenai | [OlmoEarth-v1_3-Base](https://huggingface.co/allenai/OlmoEarth-v1_3-Base) | other | [LICENSE.txt](data/licenses/allenai/OlmoEarth-v1_3-Base.txt) | - |
+| allenai | [RoboTracker](https://huggingface.co/allenai/RoboTracker) | apache-2.0 | none | - |
+| allenai | [RoboTracker-Warp](https://huggingface.co/allenai/RoboTracker-Warp) | cc-by-nc-4.0 | none | - |
 | allenai | [scibert_scivocab_uncased](https://huggingface.co/allenai/scibert_scivocab_uncased) | not set | none | - |
 | allenai | [specter2_base](https://huggingface.co/allenai/specter2_base) | apache-2.0 | none | - |
 | allenai | [wildguard](https://huggingface.co/allenai/wildguard) | apache-2.0 | none | - |
@@ -67,6 +69,9 @@ _Last checked: 2026-11-23 · 210 models_
 | baidu | [ERNIE-4.5-21B-A3B-Thinking](https://huggingface.co/baidu/ERNIE-4.5-21B-A3B-Thinking) | apache-2.0 | [LICENSE](data/licenses/baidu/ERNIE-4.5-21B-A3B-Thinking.txt) | - |
 | baidu | [ERNIE-5.5-Flash-Base](https://huggingface.co/baidu/ERNIE-5.5-Flash-Base) | other (ernie-5.5-flash-base-model-license-v1.0) | [LICENSE](data/licenses/baidu/ERNIE-5.5-Flash-Base.txt) | - |
 | baidu | [ERNIE-5.5-Flash-Base-BF16](https://huggingface.co/baidu/ERNIE-5.5-Flash-Base-BF16) | other (ernie-5.5-flash-base-model-license-v1.0) | [LICENSE](data/licenses/baidu/ERNIE-5.5-Flash-Base-BF16.txt) | - |
+| baidu | [ERNIE-5.5-Flash-Preview](https://huggingface.co/baidu/ERNIE-5.5-Flash-Preview) | apache-2.0 | [LICENSE](data/licenses/baidu/ERNIE-5.5-Flash-Preview.txt) | - |
+| baidu | [ERNIE-5.5-Flash-Preview-BF16](https://huggingface.co/baidu/ERNIE-5.5-Flash-Preview-BF16) | apache-2.0 | [LICENSE](data/licenses/baidu/ERNIE-5.5-Flash-Preview-BF16.txt) | - |
+| baidu | [ERNIE-5.5-Flash-Preview-FP8](https://huggingface.co/baidu/ERNIE-5.5-Flash-Preview-FP8) | apache-2.0 | [LICENSE](data/licenses/baidu/ERNIE-5.5-Flash-Preview-FP8.txt) | - |
 | baidu | [ERNIE-Image-Aes](https://huggingface.co/baidu/ERNIE-Image-Aes) | apache-2.0 | none | - |
 | baidu | [NAVA](https://huggingface.co/baidu/NAVA) | apache-2.0 | [LICENSE](data/licenses/baidu/NAVA.txt) | - |
 | baidu | [Qianfan-OCR](https://huggingface.co/baidu/Qianfan-OCR) | apache-2.0 | [LICENSE](data/licenses/baidu/Qianfan-OCR.txt) | - |
@@ -182,6 +187,7 @@ _Last checked: 2026-11-23 · 210 models_
 | nvidia | [Llama-3.2-1B-Qwen3.8-27B-Draft](https://huggingface.co/nvidia/Llama-3.2-1B-Qwen3.8-27B-Draft) | other (nvidia-open-model-agreement) | none | - |
 | nvidia | [Metatron-v1](https://huggingface.co/nvidia/Metatron-v1) | other (nvidia-open-model-license) | [LICENSE.pdf](data/licenses/nvidia/Metatron-v1.txt) | - |
 | nvidia | [MetricTrail](https://huggingface.co/nvidia/MetricTrail) | other (nvidia-open-model-license) | none | - |
+| nvidia | [MiMo-V2.6-Flash-RL-NVFP4](https://huggingface.co/nvidia/MiMo-V2.6-Flash-RL-NVFP4) | mit | none | - |
 | nvidia | [MotionBricks](https://huggingface.co/nvidia/MotionBricks) | not set | none | - |
 | nvidia | [Nemotron-Labs-Sigma-distill-8B-nfe16](https://huggingface.co/nvidia/Nemotron-Labs-Sigma-distill-8B-nfe16) | other (nvidia-nemotron-open-model-license) | none | - |
 | nvidia | [Nemotron-Labs-Sigma-distill-spec-3B](https://huggingface.co/nvidia/Nemotron-Labs-Sigma-distill-spec-3B) | other (nvidia-nemotron-open-model-license) | none | - |
@@ -240,6 +246,7 @@ _Last checked: 2026-11-23 · 210 models_
 | tencent | [Hy4-flash-base](https://huggingface.co/tencent/Hy4-flash-base) | other (tencent-hy-license) | [LICENSE](data/licenses/tencent/Hy4-flash-base.txt) | - |
 | tencent | [Hy4-flash-FP8](https://huggingface.co/tencent/Hy4-flash-FP8) | other (tencent-hy-license) | [LICENSE](data/licenses/tencent/Hy4-flash-FP8.txt) | - |
 | tencent | [Hy4-FP8](https://huggingface.co/tencent/Hy4-FP8) | other (tencent-hy-license) | [LICENSE](data/licenses/tencent/Hy4-FP8.txt) | - |
+| tencent | [OmniEVIE-4B](https://huggingface.co/tencent/OmniEVIE-4B) | apache-2.0 | [LICENSE.txt](data/licenses/tencent/OmniEVIE-4B.txt) | - |
 | tencent | [Qwen3.8-27B-DSpine-b16](https://huggingface.co/tencent/Qwen3.8-27B-DSpine-b16) | apache-2.0 | [LICENSE](data/licenses/tencent/Qwen3.8-27B-DSpine-b16.txt) | - |
 | tencent | [WeMM-Ecom-2B-GPTQ](https://huggingface.co/tencent/WeMM-Ecom-2B-GPTQ) | apache-2.0 | [LICENSE](data/licenses/tencent/WeMM-Ecom-2B-GPTQ.txt) | - |
 | tencent | [WeMM-Ecom-35B-A3B-GPTQ](https://huggingface.co/tencent/WeMM-Ecom-35B-A3B-GPTQ) | apache-2.0 | [LICENSE](data/licenses/tencent/WeMM-Ecom-35B-A3B-GPTQ.txt) | - |

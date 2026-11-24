@@ -509,6 +509,26 @@
   "license_name": null,
   "license_sha256": "f9906ca382b72377a8d0a7506946ba9c64607044eb7ff8deb2337e868856abf7"
  },
+ "allenai/RoboTracker": {
+  "changed": null,
+  "created": "2026-11-17",
+  "first_seen": "2026-11-24",
+  "gated": false,
+  "license": "apache-2.0",
+  "license_file": null,
+  "license_name": null,
+  "license_sha256": null
+ },
+ "allenai/RoboTracker-Warp": {
+  "changed": null,
+  "created": "2026-11-18",
+  "first_seen": "2026-11-24",
+  "gated": false,
+  "license": "cc-by-nc-4.0",
+  "license_file": null,
+  "license_name": null,
+  "license_sha256": null
+ },
  "allenai/longformer-base-4096": {
   "changed": null,
   "created": "2022-03-02",
@@ -618,6 +638,36 @@
   "license_file": "LICENSE",
   "license_name": "ernie-5.5-flash-base-model-license-v1.0",
   "license_sha256": "f896ab9f174d0d55943d6c90ec26ba919ec59e03620982370d27181d4497b254"
+ },
+ "baidu/ERNIE-5.5-Flash-Preview": {
+  "changed": null,
+  "created": "2026-11-23",
+  "first_seen": "2026-11-24",
+  "gated": false,
+  "license": "apache-2.0",
+  "license_file": "LICENSE",
+  "license_name": null,
+  "license_sha256": "b9f4eb32dc463a1b46d6d4b344a2947ad17981934be5d615a184b9afc5e77ff0"
+ },
+ "baidu/ERNIE-5.5-Flash-Preview-BF16": {
+  "changed": null,
+  "created": "2026-11-23",
+  "first_seen": "2026-11-24",
+  "gated": false,
+  "license": "apache-2.0",
+  "license_file": "LICENSE",
+  "license_name": null,
+  "license_sha256": "b9f4eb32dc463a1b46d6d4b344a2947ad17981934be5d615a184b9afc5e77ff0"
+ },
+ "baidu/ERNIE-5.5-Flash-Preview-FP8": {
+  "changed": null,
+  "created": "2026-11-23",
+  "first_seen": "2026-11-24",
+  "gated": false,
+  "license": "apache-2.0",
+  "license_file": "LICENSE",
+  "license_name": null,
+  "license_sha256": "b9f4eb32dc463a1b46d6d4b344a2947ad17981934be5d615a184b9afc5e77ff0"
  },
  "baidu/ERNIE-Image-Aes": {
   "changed": null,
@@ -1459,6 +1509,16 @@
   "license_name": "nvidia-open-model-license",
   "license_sha256": null
  },
+ "nvidia/MiMo-V2.6-Flash-RL-NVFP4": {
+  "changed": null,
+  "created": "2026-11-17",
+  "first_seen": "2026-11-24",
+  "gated": false,
+  "license": "mit",
+  "license_file": null,
+  "license_name": null,
+  "license_sha256": null
+ },
  "nvidia/MotionBricks": {
   "changed": null,
   "created": "2026-10-23",
@@ -1928,6 +1988,16 @@
   "license_file": "LICENSE",
   "license_name": "tencent-hy-license",
   "license_sha256": "52755a6786f2f4b83b48cd7246aa9e34f7aac98563e4e60808ab02390799fdbd"
+ },
+ "tencent/OmniEVIE-4B": {
+  "changed": null,
+  "created": "2026-11-24",
+  "first_seen": "2026-11-24",
+  "gated": false,
+  "license": "apache-2.0",
+  "license_file": "LICENSE.txt",
+  "license_name": null,
+  "license_sha256": "a5e9e8d6ec940b3c936f3cec9d47e2ec7220b32c8a7d4b27e42ef85900d3ae15"
  },
  "tencent/Qwen3.8-27B-DSpine-b16": {
   "changed": null,
