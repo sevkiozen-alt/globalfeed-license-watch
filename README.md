@@ -43,7 +43,7 @@ Python 3.10 or newer, no dependencies. Set `HF_TOKEN` to also read license files
 ## Current licenses
 
 <!-- table:start -->
-_Last checked: 2026-11-24 · 217 models_
+_Last checked: 2026-11-25 · 219 models_
 
 | Organisation | Model | License | License file | Last change |
 |---|---|---|---|---|
@@ -254,6 +254,8 @@ _Last checked: 2026-11-24 · 217 models_
 | tencent | [WeMM-Ecom-9B-GPTQ](https://huggingface.co/tencent/WeMM-Ecom-9B-GPTQ) | apache-2.0 | [LICENSE](data/licenses/tencent/WeMM-Ecom-9B-GPTQ.txt) | - |
 | tencent | [WeMM-Video-2B-GGUF](https://huggingface.co/tencent/WeMM-Video-2B-GGUF) | apache-2.0 | [LICENSE](data/licenses/tencent/WeMM-Video-2B-GGUF.txt) | - |
 | tencent | [WeMM-Video-2B-NVFP4](https://huggingface.co/tencent/WeMM-Video-2B-NVFP4) | apache-2.0 | [LICENSE](data/licenses/tencent/WeMM-Video-2B-NVFP4.txt) | - |
+| tencent | [WePocketModel1.0-2B-MLX](https://huggingface.co/tencent/WePocketModel1.0-2B-MLX) | apache-2.0 | [LICENSE.txt](data/licenses/tencent/WePocketModel1.0-2B-MLX.txt) | - |
+| tencent | [WePocketModel1.0-4B-MLX](https://huggingface.co/tencent/WePocketModel1.0-4B-MLX) | apache-2.0 | [LICENSE.txt](data/licenses/tencent/WePocketModel1.0-4B-MLX.txt) | - |
 | tencent | [WeVisForensics](https://huggingface.co/tencent/WeVisForensics) | apache-2.0 | [LICENSE](data/licenses/tencent/WeVisForensics.txt) | - |
 | tencent | [WeVisOne-VL-2B](https://huggingface.co/tencent/WeVisOne-VL-2B) | apache-2.0 | [LICENSE](data/licenses/tencent/WeVisOne-VL-2B.txt) | - |
 | tencent | [WeVisOne-VL-4B](https://huggingface.co/tencent/WeVisOne-VL-4B) | apache-2.0 | [LICENSE](data/licenses/tencent/WeVisOne-VL-4B.txt) | - |

@@ -2069,6 +2069,26 @@
   "license_name": null,
   "license_sha256": "bac4d42ddebadb11e405fc4de2335579e67676362ac870108012ab4899ef1e5b"
  },
+ "tencent/WePocketModel1.0-2B-MLX": {
+  "changed": null,
+  "created": "2026-11-25",
+  "first_seen": "2026-11-25",
+  "gated": false,
+  "license": "apache-2.0",
+  "license_file": "LICENSE.txt",
+  "license_name": null,
+  "license_sha256": "b43a7b5897a4ab81aa61a43b60494865e34308a2d55d3ba9edd5c8e39b247a56"
+ },
+ "tencent/WePocketModel1.0-4B-MLX": {
+  "changed": null,
+  "created": "2026-11-25",
+  "first_seen": "2026-11-25",
+  "gated": false,
+  "license": "apache-2.0",
+  "license_file": "LICENSE.txt",
+  "license_name": null,
+  "license_sha256": "3973d89be6d76f950f4d6f0b4d85595fa52a6ced4fdf2ef24a2687783052c3ae"
+ },
  "tencent/WeVisForensics": {
   "changed": null,
   "created": "2026-11-14",
