@@ -43,7 +43,7 @@ Python 3.10 or newer, no dependencies. Set `HF_TOKEN` to also read license files
 ## Current licenses
 
 <!-- table:start -->
-_Last checked: 2026-11-25 · 219 models_
+_Last checked: 2026-11-26 · 220 models_
 
 | Organisation | Model | License | License file | Last change |
 |---|---|---|---|---|
@@ -189,6 +189,7 @@ _Last checked: 2026-11-25 · 219 models_
 | nvidia | [MetricTrail](https://huggingface.co/nvidia/MetricTrail) | other (nvidia-open-model-license) | none | - |
 | nvidia | [MiMo-V2.6-Flash-RL-NVFP4](https://huggingface.co/nvidia/MiMo-V2.6-Flash-RL-NVFP4) | mit | none | - |
 | nvidia | [MotionBricks](https://huggingface.co/nvidia/MotionBricks) | not set | none | - |
+| nvidia | [Nemotron-3.5-Rerank-1B-BF16](https://huggingface.co/nvidia/Nemotron-3.5-Rerank-1B-BF16) | other (openmdw-1.1) | [LICENSE](data/licenses/nvidia/Nemotron-3.5-Rerank-1B-BF16.txt) | - |
 | nvidia | [Nemotron-Labs-Sigma-distill-8B-nfe16](https://huggingface.co/nvidia/Nemotron-Labs-Sigma-distill-8B-nfe16) | other (nvidia-nemotron-open-model-license) | none | - |
 | nvidia | [Nemotron-Labs-Sigma-distill-spec-3B](https://huggingface.co/nvidia/Nemotron-Labs-Sigma-distill-spec-3B) | other (nvidia-nemotron-open-model-license) | none | - |
 | nvidia | [NVIDIA-Nemotron-3-Nano-30B-A3B-BF16](https://huggingface.co/nvidia/NVIDIA-Nemotron-3-Nano-30B-A3B-BF16) | other (nvidia-nemotron-open-model-license) | none | - |

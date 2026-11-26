@@ -1549,6 +1549,16 @@
   "license_name": "nvidia-nemotron-open-model-license",
   "license_sha256": null
  },
+ "nvidia/Nemotron-3.5-Rerank-1B-BF16": {
+  "changed": null,
+  "created": "2026-11-13",
+  "first_seen": "2026-11-26",
+  "gated": false,
+  "license": "other",
+  "license_file": "LICENSE",
+  "license_name": "openmdw-1.1",
+  "license_sha256": "5ae76a0d16eef67e28c81bfdb0b3c8687d14e9b57094090151e7541aac457ae9"
+ },
  "nvidia/Nemotron-Labs-Sigma-distill-8B-nfe16": {
   "changed": null,
   "created": "2026-11-09",
