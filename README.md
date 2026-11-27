@@ -43,7 +43,7 @@ Python 3.10 or newer, no dependencies. Set `HF_TOKEN` to also read license files
 ## Current licenses
 
 <!-- table:start -->
-_Last checked: 2026-11-26 · 220 models_
+_Last checked: 2026-11-27 · 224 models_
 
 | Organisation | Model | License | License file | Last change |
 |---|---|---|---|---|
@@ -171,6 +171,7 @@ _Last checked: 2026-11-26 · 220 models_
 | mistralai | [Timestral-123M](https://huggingface.co/mistralai/Timestral-123M) | other | [LICENSE](data/licenses/mistralai/Timestral-123M.txt) | - |
 | mistralai | [Timestral-28M](https://huggingface.co/mistralai/Timestral-28M) | other | [LICENSE](data/licenses/mistralai/Timestral-28M.txt) | - |
 | mistralai | [Timestral-5M](https://huggingface.co/mistralai/Timestral-5M) | other | [LICENSE](data/licenses/mistralai/Timestral-5M.txt) | - |
+| mistralai | [Voxtral-Mini-3B-2507](https://huggingface.co/mistralai/Voxtral-Mini-3B-2507) | apache-2.0 | none | - |
 | mistralai | [Voxtral-Mini-4B-Realtime-2602](https://huggingface.co/mistralai/Voxtral-Mini-4B-Realtime-2602) | apache-2.0 | none | - |
 | moonshotai | [Kimi-K2-Instruct](https://huggingface.co/moonshotai/Kimi-K2-Instruct) | other (modified-mit) | [LICENSE](data/licenses/moonshotai/Kimi-K2-Instruct.txt) | - |
 | moonshotai | [Kimi-K2.5](https://huggingface.co/moonshotai/Kimi-K2.5) | other (modified-mit) | [LICENSE](data/licenses/moonshotai/Kimi-K2.5.txt) | - |
@@ -236,7 +237,9 @@ _Last checked: 2026-11-26 · 220 models_
 | stepfun-ai | [Step-5-Preview-BF16](https://huggingface.co/stepfun-ai/Step-5-Preview-BF16) | other | [LICENSE-CN.txt](data/licenses/stepfun-ai/Step-5-Preview-BF16.txt) | - |
 | stepfun-ai | [Step-5-Preview-NVFP4](https://huggingface.co/stepfun-ai/Step-5-Preview-NVFP4) | other (stepfun-model-license-1.0) | [LICENSE-CN.txt](data/licenses/stepfun-ai/Step-5-Preview-NVFP4.txt) | - |
 | stepfun-ai | [step3](https://huggingface.co/stepfun-ai/step3) | apache-2.0 | [LICENSE](data/licenses/stepfun-ai/step3.txt) | - |
+| tencent | [Hunyuan3D-2](https://huggingface.co/tencent/Hunyuan3D-2) | other (tencent-hunyuan-community) | [LICENSE](data/licenses/tencent/Hunyuan3D-2.txt) | - |
 | tencent | [HunyuanOCR](https://huggingface.co/tencent/HunyuanOCR) | other (tencent-hunyuan-community) | [LICENSE](data/licenses/tencent/HunyuanOCR.txt) | - |
+| tencent | [Hy-Embodied-Apexio-1.0](https://huggingface.co/tencent/Hy-Embodied-Apexio-1.0) | not set | none | - |
 | tencent | [Hy-MT2-1.8B-GGUF](https://huggingface.co/tencent/Hy-MT2-1.8B-GGUF) | apache-2.0 | [LICENSE.txt](data/licenses/tencent/Hy-MT2-1.8B-GGUF.txt) | - |
 | tencent | [Hy-MT2-7B-GGUF](https://huggingface.co/tencent/Hy-MT2-7B-GGUF) | apache-2.0 | [LICENSE.txt](data/licenses/tencent/Hy-MT2-7B-GGUF.txt) | - |
 | tencent | [Hy-Nomas-Diffusers](https://huggingface.co/tencent/Hy-Nomas-Diffusers) | apache-2.0 | [LICENSE](data/licenses/tencent/Hy-Nomas-Diffusers.txt) | - |
@@ -262,6 +265,7 @@ _Last checked: 2026-11-26 · 220 models_
 | tencent | [WeVisOne-VL-4B](https://huggingface.co/tencent/WeVisOne-VL-4B) | apache-2.0 | [LICENSE](data/licenses/tencent/WeVisOne-VL-4B.txt) | - |
 | zai-org | [GLM-4.7-Flash](https://huggingface.co/zai-org/GLM-4.7-Flash) | mit | none | - |
 | zai-org | [GLM-5](https://huggingface.co/zai-org/GLM-5) | mit | none | - |
+| zai-org | [GLM-5.2](https://huggingface.co/zai-org/GLM-5.2) | mit | [LICENSE](data/licenses/zai-org/GLM-5.2.txt) | - |
 | zai-org | [GLM-5.3](https://huggingface.co/zai-org/GLM-5.3) | other (glm-5.3) | [LICENSE](data/licenses/zai-org/GLM-5.3.txt) | - |
 | zai-org | [GLM-5.3-BF16](https://huggingface.co/zai-org/GLM-5.3-BF16) | other (glm-5.3) | [LICENSE](data/licenses/zai-org/GLM-5.3-BF16.txt) | - |
 | zai-org | [GLM-5.3-Flash](https://huggingface.co/zai-org/GLM-5.3-Flash) | mit | [LICENSE](data/licenses/zai-org/GLM-5.3-Flash.txt) | - |

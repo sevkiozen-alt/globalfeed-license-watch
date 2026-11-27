@@ -1359,6 +1359,16 @@
   "license_name": null,
   "license_sha256": "648194727930df730890e9f9affdbcc5c930d406d6829559b25ca3d5a973fc8c"
  },
+ "mistralai/Voxtral-Mini-3B-2507": {
+  "changed": null,
+  "created": "2025-07-01",
+  "first_seen": "2026-11-27",
+  "gated": false,
+  "license": "apache-2.0",
+  "license_file": null,
+  "license_name": null,
+  "license_sha256": null
+ },
  "mistralai/Voxtral-Mini-4B-Realtime-2602": {
   "changed": null,
   "created": "2026-01-21",
@@ -1889,6 +1899,16 @@
   "license_name": null,
   "license_sha256": "58d1e17ffe5109a7ae296caafcadfdbe6a7d176f0bc4ab01e12a689b0499d8bd"
  },
+ "tencent/Hunyuan3D-2": {
+  "changed": null,
+  "created": "2025-01-20",
+  "first_seen": "2026-11-27",
+  "gated": false,
+  "license": "other",
+  "license_file": "LICENSE",
+  "license_name": "tencent-hunyuan-community",
+  "license_sha256": "eca02cc10abaf520d85c3c523aef0b88f36b935b85635f1e34370688e93da3dd"
+ },
  "tencent/HunyuanOCR": {
   "changed": null,
   "created": "2025-11-18",
@@ -1898,6 +1918,16 @@
   "license_file": "LICENSE",
   "license_name": "tencent-hunyuan-community",
   "license_sha256": "745adaa59575d2a98b64fd6d3452537b477a6b6edc126f742fc055313cc3d3e0"
+ },
+ "tencent/Hy-Embodied-Apexio-1.0": {
+  "changed": null,
+  "created": "2026-11-27",
+  "first_seen": "2026-11-27",
+  "gated": false,
+  "license": null,
+  "license_file": null,
+  "license_name": null,
+  "license_sha256": null
  },
  "tencent/Hy-MT2-1.8B-GGUF": {
   "changed": null,
@@ -2148,6 +2178,16 @@
   "license_file": null,
   "license_name": null,
   "license_sha256": null
+ },
+ "zai-org/GLM-5.2": {
+  "changed": null,
+  "created": "2026-06-16",
+  "first_seen": "2026-11-27",
+  "gated": false,
+  "license": "mit",
+  "license_file": "LICENSE",
+  "license_name": null,
+  "license_sha256": "f4a18c6ae40b0a8e7d2b7667f52f6e1994e54a46430d2e172b73cb8c9b5eb0d7"
  },
  "zai-org/GLM-5.3": {
   "changed": null,
