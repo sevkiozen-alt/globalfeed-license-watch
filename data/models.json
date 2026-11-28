@@ -839,6 +839,16 @@
   "license_name": null,
   "license_sha256": "f2c6c602815669d292889e5be8c802f2ed950653b77999b1584e8e6aed25d040"
  },
+ "deepseek-ai/DeepSeek-V4-Flash": {
+  "changed": null,
+  "created": "2026-04-22",
+  "first_seen": "2026-11-28",
+  "gated": false,
+  "license": "mit",
+  "license_file": "LICENSE",
+  "license_name": null,
+  "license_sha256": "f2c6c602815669d292889e5be8c802f2ed950653b77999b1584e8e6aed25d040"
+ },
  "deepseek-ai/DeepSeek-V4-Flash-0731": {
   "changed": null,
   "created": "2026-07-31",

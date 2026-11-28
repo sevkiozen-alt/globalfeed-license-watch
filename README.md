@@ -43,7 +43,7 @@ Python 3.10 or newer, no dependencies. Set `HF_TOKEN` to also read license files
 ## Current licenses
 
 <!-- table:start -->
-_Last checked: 2026-11-27 · 224 models_
+_Last checked: 2026-11-28 · 225 models_
 
 | Organisation | Model | License | License file | Last change |
 |---|---|---|---|---|
@@ -100,6 +100,7 @@ _Last checked: 2026-11-27 · 224 models_
 | deepseek-ai | [DeepSeek-OCR](https://huggingface.co/deepseek-ai/DeepSeek-OCR) | mit | [LICENSE](data/licenses/deepseek-ai/DeepSeek-OCR.txt) | - |
 | deepseek-ai | [DeepSeek-R1](https://huggingface.co/deepseek-ai/DeepSeek-R1) | mit | [LICENSE](data/licenses/deepseek-ai/DeepSeek-R1.txt) | - |
 | deepseek-ai | [DeepSeek-V3.2](https://huggingface.co/deepseek-ai/DeepSeek-V3.2) | mit | [LICENSE](data/licenses/deepseek-ai/DeepSeek-V3.2.txt) | - |
+| deepseek-ai | [DeepSeek-V4-Flash](https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash) | mit | [LICENSE](data/licenses/deepseek-ai/DeepSeek-V4-Flash.txt) | - |
 | deepseek-ai | [DeepSeek-V4-Flash-0731](https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-0731) | mit | [LICENSE](data/licenses/deepseek-ai/DeepSeek-V4-Flash-0731.txt) | - |
 | deepseek-ai | [DeepSeek-V4-Flash-Vision-Exp](https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-Vision-Exp) | mit | [LICENSE](data/licenses/deepseek-ai/DeepSeek-V4-Flash-Vision-Exp.txt) | - |
 | deepseek-ai | [DeepSeek-V4-Pro-0813](https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro-0813) | mit | [LICENSE](data/licenses/deepseek-ai/DeepSeek-V4-Pro-0813.txt) | - |
